@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"logo",
+				"logo_url"
+			],
+			[
+				"w-",
+				"w-full"
+			],
+			[
+				"just",
+				"justify-center"
+			],
+			[
+				"Comp",
+				"CompTIA"
+			],
+			[
+				"justf",
+				"justify-items"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"initi",
+				"infinite"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"test",
+				"testimonials"
+			],
+			[
+				"rac",
+				"rafc,rafce\treactArrowFunctionComponent"
+			],
+			[
+				"tit",
+				"titleClassName"
+			],
+			[
+				"desc",
+				"description"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"terminus open",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"Terminus: Rename Title"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"general",
+				"Package Control: Remove Channel"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus rename",
+				"Terminus: Rename Title"
+			],
+			[
+				"Open defa",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/moloitk/Documents/GitHub/bunny-apple-treats"
+	],
+	"file_history":
+	[
+		"/home/moloitk/Documents/GitHub/enactus-ufsq/context/data-context.tsx",
+		"/home/moloitk/Documents/GitHub/birthday-memory-board/components/birthday-experience.tsx",
+		"/home/moloitk/Documents/GitHub/Money_Mart/app/layout.tsx",
+		"/home/moloitk/Documents/GitHub/enactus-ufsq/app/layout.tsx",
+		"/home/moloitk/Documents/GitHub/enactus-ufsq/app/enterprises/page.tsx",
+		"/home/moloitk/Documents/GitHub/enactus-ufsq/components/home/enterprises-section.tsx",
+		"/home/moloitk/Documents/GitHub/enactus-ufsq/app/page.tsx",
+		"/home/moloitk/Documents/GitHub/enactus-ufsq/.env.local",
+		"/home/moloitk/Documents/GitHub/enactus-ufsq/lib/supabase.ts",
+		"/home/moloitk/Documents/GitHub/enactus-ufsq/.gitignore",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/app/page.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/next.config.ts",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/certifications.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/hero-section.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/app/globals.css",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/data/index.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/animated-testimonials.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/testimonials.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/recent-projects.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/app/layout.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/experience.tsx",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Program.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Controllers/AccountController.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Data/SeedData.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Models/ViewModels/ReportViewModel.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Views/Account/Details.cshtml",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Views/Shared/_Layout.cshtml",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Views/Notification/List.cshtml",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Controllers/HomeController.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Controllers/NotificationController.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Controllers/AdminController.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Models/Transaction.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/KovsieCash_WebApp.csproj",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Models/ViewModels/TransferViewModel.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Data/ApplicationUserRepository.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/Data/AccountRepository.cs",
+		"/home/moloitk/Documents/GitHub/KovsieCash_WebApp/appsettings.json",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/app/global-error.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/.env.local",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/bento-grid.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/grid-globe.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/globe.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/hover-border-gradient.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/3d-globe-demo.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/floating-navbar.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/spotlight-new.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/.github/workflows/main.yml",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/footer.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/data/index.ts",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/instrumentation-client.ts",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/comet-card.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/text-generate-effect.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/magic-button.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/gradient-bg.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/grid.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/gradient-bg",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/ui/MagicButton.tsx",
+		"/home/moloitk/Documents/GitHub/personal-portfolio-nextjs/components/HeroSection.tsx",
+		"/var/home/moloitk/.config/sublime-text/Packages/Terminus/Default.sublime-keymap",
+		"/var/home/moloitk/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/var/home/moloitk/.config/sublime-text/Packages/User/Terminus.sublime-settings",
+		"/var/home/moloitk/.config/sublime-text/Packages/Terminus/Terminus.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 132.0,
+		"history":
+		[
+		]
+	},
+	"output.Terminus":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "bunny-apple-treats.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
