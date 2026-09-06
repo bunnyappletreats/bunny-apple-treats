@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from 'react'
 import Image from 'next/image'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'
+import { FaInstagram, FaWhatsapp, FaTiktok, FaFacebook } from 'react-icons/fa';
 
 const assets = {
   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',
@@ -98,7 +99,32 @@ export function BakeryStorefront() {
 
       <section id="story" className="mx-auto grid max-w-7xl items-center gap-10 px-5 py-20 lg:grid-cols-2 lg:px-8 lg:py-28"><div className="relative mx-auto w-full max-w-md"><div className="absolute -inset-4 -rotate-3 rounded-[2rem] bg-secondary" /><Image src={assets.portrait} alt="Bunny Apple Treats founder with a pink cake" width={823} height={1200} className="relative rounded-[2rem] object-cover" /></div><div className="max-w-xl"><p className="text-xs font-semibold uppercase tracking-[0.24em] text-primary">From our kitchen</p><h2 className="mt-4 font-serif text-5xl leading-tight lg:text-6xl">Bakes that feel like a <em className="text-primary">warm hug.</em></h2><p className="mt-6 text-base leading-7 text-muted-foreground">Bunny Apple Treats started with a simple belief: dessert should make an ordinary day feel worth celebrating. From tiny bento cakes to show-stopping custom designs, we create joyful treats for birthdays, milestones and just-because moments.</p><a href={`https://wa.me/${whatsapp}`} target="_blank" rel="noreferrer" className="mt-8 inline-flex items-center gap-3 font-semibold underline decoration-primary decoration-2 underline-offset-8">Start your order <FontAwesomeIcon icon={faArrowRight} /></a></div></section>
 
-      <section id="contact" className="bg-primary px-5 py-16 text-primary-foreground lg:px-8"><div className="mx-auto flex max-w-7xl flex-col justify-between gap-8 md:flex-row md:items-end"><div><Image src={assets.logo} alt="Bunny Apple Treats logo" width={64} height={64} className="rounded-full" /><h2 className="mt-5 font-serif text-4xl">Let&apos;s make something lovely.</h2><p className="mt-3 max-w-md text-sm leading-6 text-primary-foreground/75">Orders and enquiries are handled personally on WhatsApp. We&apos;d love to hear what you&apos;re celebrating.</p></div><div className="flex flex-col gap-3 text-sm"><a href={`https://wa.me/${whatsapp}`} target="_blank" rel="noreferrer" className="flex items-center gap-3 underline underline-offset-4">WhatsApp catalogue <FontAwesomeIcon icon={faArrowRight} /></a><a href="https://www.instagram.com/bunnyappletreats" target="_blank" rel="noreferrer" className="flex items-center gap-3 underline underline-offset-4"><span aria-hidden="true" className="text-base">◎</span> @bunnyappletreats</a><a href="https://www.tiktok.com/@bunny_apple_treats" target="_blank" rel="noreferrer" className="underline underline-offset-4">TikTok @bunny_apple_treats</a><a href="https://www.facebook.com/" target="_blank" rel="noreferrer" className="underline underline-offset-4">Facebook · Bunny Apple Treats</a></div></div></section>
+      <section id="contact" className="bg-primary px-5 py-16 text-primary-foreground lg:px-8">
+        <div className="mx-auto flex max-w-7xl flex-col justify-between gap-8 md:flex-row md:items-end">
+          <div>
+            <Image src={assets.logo} alt="Bunny Apple Treats logo" width={64} height={64} className="rounded-full" />
+            <h2 className="mt-5 font-serif text-4xl">Let&apos;s make something lovely.</h2>
+            <p className="mt-3 max-w-md text-sm leading-6 text-primary-foreground/75">Orders and enquiries are handled personally on WhatsApp. We&apos;d love to hear what you&apos;re celebrating.</p>
+          </div>
+
+          <div className="flex flex-col gap-3 text-sm">
+            <a href={`https://wa.me/${whatsapp}`} target="_blank" rel="noreferrer" className="flex items-center gap-3 underline underline-offset-4">
+              <span aria-hidden="true" className="text-base"><FaWhatsapp/></span>065 856 4939
+            </a>
+
+            <a href="https://www.instagram.com/bunnyappletreats" target="_blank" rel="noreferrer" className="flex items-center gap-3 underline underline-offset-4">
+              <span aria-hidden="true" className="text-base"><FaInstagram/></span>@bunnyappletreats
+            </a>
+
+            <a href="https://www.tiktok.com/@bunny_apple_treats" target="_blank" rel="noreferrer" className="flex items-center gap-3 underline underline-offset-4">
+              <span aria-hidden="true" className="text-base"><FaTiktok/></span>@bunny_apple_treats
+            </a>
+
+            <a href="https://www.facebook.com/" target="_blank" rel="noreferrer" className="flex items-center gap-3 underline underline-offset-4">
+              <span aria-hidden="true" className="text-base"><FaFacebook/></span>Bunny Apple Treats</a>
+          </div>
+        </div>
+      </section>
 
       {drawer && <div className="fixed inset-0 z-50"><button className="absolute inset-0 bg-foreground/40" onClick={() => setDrawer(false)} aria-label="Close cart" /><aside className="absolute right-0 top-0 flex h-full w-full max-w-md flex-col bg-background p-6 shadow-2xl"><div className="flex items-center justify-between border-b border-foreground/10 pb-5"><div><p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">Your order</p><h2 className="mt-1 font-serif text-3xl">Sweet picks</h2></div><button onClick={() => setDrawer(false)} aria-label="Close cart"><FontAwesomeIcon icon={faXmark} /></button></div><div className="flex-1 overflow-y-auto py-5">{count === 0 ? <div className="flex h-full flex-col items-center justify-center text-center"><FontAwesomeIcon icon={faShoppingBag} className="text-muted-foreground" size="2x" /><p className="mt-4 font-serif text-2xl">Your order is empty</p><p className="mt-2 text-sm text-muted-foreground">Add a little sweetness from the menu.</p></div> : catalogue.filter((product) => cart[product.id]).map((product) => <div key={product.id} className="flex items-center gap-3 border-b border-foreground/10 py-4"><Image src={product.image} alt="" width={64} height={64} className="size-16 rounded-xl object-cover" /><div className="min-w-0 flex-1"><p className="truncate font-semibold">{product.name}</p><p className="text-sm text-muted-foreground">{zar(product.price)}</p><div className="mt-2 flex items-center gap-3"><button onClick={() => remove(product.id)} className="rounded-full border p-1" aria-label={`Remove one ${product.name}`}><FontAwesomeIcon icon={faMinus} /></button><span className="text-sm">{cart[product.id]}</span><button onClick={() => add(product.id)} className="rounded-full border p-1" aria-label={`Add one ${product.name}`}><FontAwesomeIcon icon={faPlus} /></button></div></div></div>)}</div>{count > 0 && <div className="border-t border-foreground/10 pt-5"><div className="mb-5 flex justify-between text-lg font-semibold"><span>Subtotal</span><span>{zar(subtotal)}</span></div><div className="grid gap-3"><input value={name} onChange={(e) => setName(e.target.value)} placeholder="Your name" className="rounded-xl border border-foreground/15 bg-transparent px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-primary" /><input type="date" value={date} onChange={(e) => setDate(e.target.value)} className="rounded-xl border border-foreground/15 bg-transparent px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-primary" /><textarea value={notes} onChange={(e) => setNotes(e.target.value)} placeholder="Tell us about your order (optional)" rows={3} className="resize-none rounded-xl border border-foreground/15 bg-transparent px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-primary" /><button onClick={order} className="rounded-full bg-primary py-3 font-semibold text-primary-foreground">Send order on WhatsApp <ArrowRight className="ml-2 inline" size={16} /></button></div></div>}</aside></div>}
     </main>

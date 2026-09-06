@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Fa",
+				"FaFacebook"
+			],
+			[
 				"logo",
 				"logo_url"
 			],
@@ -60,356 +64,1120 @@
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
+			"file": "app/page.tsx",
 			"settings":
 			{
-				"buffer_size": 209,
+				"buffer_size": 128,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": ".env.local",
+			"file": "components/bakery-storefront.tsx",
 			"settings":
 			{
-				"buffer_size": 316,
+				"buffer_size": 17149,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
 				[
-					2,
-					1,
-					"insert",
-					{
-						"characters": "DATAB"
-					},
-					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					4,
-					1,
-					"insert",
-					{
-						"characters": "ASR"
-					},
-					"AwAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"left_delete",
-					null,
-					"AQAAAAcAAAAAAAAABwAAAAAAAAABAAAAUg",
-					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					6,
-					1,
-					"insert",
-					{
-						"characters": "E"
-					},
-					"AQAAAAcAAAAAAAAACAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					8,
-					1,
-					"insert",
-					{
-						"characters": "_"
-					},
-					"AQAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					1,
-					"insert",
-					{
-						"characters": "URL"
-					},
-					"AwAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					12,
-					1,
-					"insert",
-					{
-						"characters": "="
-					},
-					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					15,
-					1,
-					"",
-					null,
-					"AQAAAA0AAAAAAAAAowAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					17,
+					26,
 					1,
 					"insert",
 					{
 						"characters": "\n"
 					},
-					"AQAAAKMAAAAAAAAApAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					19,
-					1,
-					"insert",
-					{
-						"characters": "A"
-					},
-					"AQAAAKQAAAAAAAAApQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					22,
-					1,
-					"insert",
-					{
-						"characters": "DMIN"
-					},
-					"BAAAAKUAAAAAAAAApgAAAAAAAAAAAAAApgAAAAAAAACnAAAAAAAAAAAAAACnAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAAqQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					23,
-					1,
-					"insert",
-					{
-						"characters": "_Pa"
-					},
-					"AwAAAKkAAAAAAAAAqgAAAAAAAAAAAAAAqgAAAAAAAACrAAAAAAAAAAAAAACrAAAAAAAAAKwAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					24,
-					1,
-					"left_delete",
-					null,
-					"AQAAAKsAAAAAAAAAqwAAAAAAAAABAAAAYQ",
-					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					25,
-					1,
-					"insert",
-					{
-						"characters": "ASSWORD"
-					},
-					"BwAAAKsAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACtAAAAAAAAAAAAAACtAAAAAAAAAK4AAAAAAAAAAAAAAK4AAAAAAAAArwAAAAAAAAAAAAAArwAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALEAAAAAAAAAAAAAALEAAAAAAAAAsgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					27,
-					1,
-					"insert",
-					{
-						"characters": "="
-					},
-					"AQAAALIAAAAAAAAAswAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAsgAAAAAAAACyAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					29,
-					1,
-					"insert",
-					{
-						"characters": "W"
-					},
-					"AQAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					31,
-					1,
-					"insert",
-					{
-						"characters": "hipped"
-					},
-					"BgAAALQAAAAAAAAAtQAAAAAAAAAAAAAAtQAAAAAAAAC2AAAAAAAAAAAAAAC2AAAAAAAAALcAAAAAAAAAAAAAALcAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC5AAAAAAAAAAAAAAC5AAAAAAAAALoAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+					"AwAAAAIwAAAAAAAACTAAAAAAAAAAAAAAAzAAAAAAAAADMAAAAAAAAAYAAAAgICAgICADMAAAAAAAAAswAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					33,
 					1,
 					"insert",
 					{
-						"characters": "@"
-					},
-					"AQAAALoAAAAAAAAAuwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAugAAAAAAAAC6AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					35,
-					1,
-					"insert",
-					{
-						"characters": "008"
-					},
-					"AwAAALsAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAAC9AAAAAAAAAAAAAAC9AAAAAAAAAL4AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAuwAAAAAAAAC7AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					36,
-					1,
-					"insert",
-					{
 						"characters": "\n"
 					},
-					"AQAAAL4AAAAAAAAAvwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAvgAAAAAAAAC+AAAAAAAAAAAAAAAAAPC/"
+					"AwAAAHAwAAAAAAAAeTAAAAAAAAAAAAAAcTAAAAAAAABxMAAAAAAAAAgAAAAgICAgICAgIHEwAAAAAAAAezAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcDAAAAAAAABwMAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					38,
 					1,
 					"insert",
 					{
-						"characters": "B"
+						"characters": "\n"
 					},
-					"AQAAAL8AAAAAAAAAwAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAvwAAAAAAAAC/AAAAAAAAAAAAAAAAAPC/"
+					"AQAAAOQwAAAAAAAA7zAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5DAAAAAAAADkMAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					40,
+					43,
 					1,
 					"insert",
 					{
-						"characters": "L"
+						"characters": "\n"
 					},
-					"AQAAAMAAAAAAAAAAwQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAAPC/"
+					"AQAAAD4xAAAAAAAASTEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPjEAAAAAAAA+MQAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					42,
+					48,
 					1,
-					"insert",
-					{
-						"characters": "O"
-					},
-					"AQAAAMEAAAAAAAAAwgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAwQAAAAAAAADBAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					45,
-					1,
-					"insert",
-					{
-						"characters": "B"
-					},
-					"AQAAAMIAAAAAAAAAwwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					47,
-					1,
-					"insert",
-					{
-						"characters": "_"
-					},
-					"AQAAAMMAAAAAAAAAxAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAwwAAAAAAAADDAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					49,
-					1,
-					"insert",
-					{
-						"characters": "REA"
-					},
-					"AwAAAMQAAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADGAAAAAAAAAAAAAADGAAAAAAAAAMcAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					51,
-					1,
-					"insert",
-					{
-						"characters": "D"
-					},
-					"AQAAAMcAAAAAAAAAyAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+					"auto_indent_tag",
+					null,
+					"AwAAAAQyAAAAAAAADzIAAAAAAAAAAAAABTIAAAAAAAAFMgAAAAAAAAoAAAAgICAgICAgICAgBTIAAAAAAAANMgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABDIAAAAAAAAEMgAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					53,
 					1,
 					"insert",
 					{
-						"characters": "_"
+						"characters": "\n"
 					},
-					"AQAAAMgAAAAAAAAAyQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+					"AQAAABMyAAAAAAAAHDIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEzIAAAAAAAATMgAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					55,
+					58,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABMyAAAAAAAAHDIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEzIAAAAAAAATMgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"BAAAAFIyAAAAAAAAWzIAAAAAAAAAAAAAFDIAAAAAAAAUMgAAAAAAAAgAAAAgICAgICAgIEsyAAAAAAAASzIAAAAAAAAIAAAAICAgICAgICBLMgAAAAAAAFUyAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUjIAAAAAAABSMgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABszAAAAAAAAJjMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGzMAAAAAAAAbMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAL0zAAAAAAAAyDMAAAAAAAAAAAAAvjMAAAAAAAC+MwAAAAAAAAoAAAAgICAgICAgICAgvjMAAAAAAADKMwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvTMAAAAAAAC9MwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAI0AAAAAAAADzQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAjQAAAAAAAACNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAACA0AAAAAAAALTQAAAAAAAAAAAAAITQAAAAAAAAhNAAAAAAAAAwAAAAgICAgICAgICAgICAhNAAAAAAAACs0AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIDQAAAAAAAAgNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAC80AAAAAAAAOjQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALzQAAAAAAAAvNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"auto_indent_tag",
+					null,
+					"AQAAABczAAAAAAAAIjMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFzMAAAAAAAAXMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACYzAAAAAAAAMTMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJjMAAAAAAAAmMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAEU0AAAAAAAAUDQAAAAAAAAAAAAAJzMAAAAAAAAnMwAAAAAAAAoAAAAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAARTQAAAAAAABFNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAO40AAAAAAAA+TQAAAAAAAAAAAAAPDQAAAAAAAA8NAAAAAAAAAoAAAAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAA7jQAAAAAAADuNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					144,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAMY0AAAAAAAA0TQAAAAAAAAAAAAAxzQAAAAAAADHNAAAAAAAAAoAAAAgICAgICAgICAgxzQAAAAAAADTNAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxjQAAAAAAADGNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					149,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAO00AAAAAAAA+jQAAAAAAAAAAAAA7jQAAAAAAADuNAAAAAAAAAwAAAAgICAgICAgICAgICDuNAAAAAAAAPg0AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7TQAAAAAAADtNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAPw0AAAAAAAABzUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/DQAAAAAAAD8NAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					161,
+					1,
+					"auto_indent_tag",
+					null,
+					"BAAAAKE1AAAAAAAArDUAAAAAAAAAAAAA/TQAAAAAAAD9NAAAAAAAAAoAAAAgICAgICAgICAgmDUAAAAAAACYNQAAAAAAAAoAAAAgICAgICAgICAgmDUAAAAAAACgNQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoTUAAAAAAAChNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					166,
+					1,
+					"auto_indent_tag",
+					null,
+					"AwAAAKY1AAAAAAAArzUAAAAAAAAAAAAApzUAAAAAAACnNQAAAAAAAAgAAAAgICAgICAgIKc1AAAAAAAArTUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApjUAAAAAAACmNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					171,
+					1,
+					"auto_indent_tag",
+					null,
+					"AwAAALM1AAAAAAAAujUAAAAAAAAAAAAAtDUAAAAAAAC0NQAAAAAAAAYAAAAgICAgICC0NQAAAAAAALg1AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAszUAAAAAAACzNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAGswAAAAAAAAdDAAAAAAAAAAAAAAbDAAAAAAAABsMAAAAAAAAAgAAAAgICAgICAgIGwwAAAAAAAAdjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAazAAAAAAAABrMAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					192,
+					1,
+					"indent",
+					null,
+					"EgAAAGwwAAAAAAAAbjAAAAAAAAAAAAAAfjAAAAAAAACAMAAAAAAAAAAAAAD0MAAAAAAAAPYwAAAAAAAAAAAAAFAxAAAAAAAAUjEAAAAAAAAAAAAAGDIAAAAAAAAaMgAAAAAAAAAAAAAqMgAAAAAAACwyAAAAAAAAAAAAAGIyAAAAAAAAZDIAAAAAAAAAAAAAMTMAAAAAAAAzMwAAAAAAAAAAAABDMwAAAAAAAEUzAAAAAAAAAAAAAOczAAAAAAAA6TMAAAAAAAAAAAAALjQAAAAAAAAwNAAAAAAAAAAAAABONAAAAAAAAFA0AAAAAAAAAAAAAGA0AAAAAAAAYjQAAAAAAAAAAAAA7DQAAAAAAADuNAAAAAAAAAAAAAAVNQAAAAAAABc1AAAAAAAAAAAAACc1AAAAAAAAKTUAAAAAAAAAAAAAwzUAAAAAAADFNQAAAAAAAAAAAADUNQAAAAAAANY1AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdjAAAAAAAAC+NQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					198,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAOc1AAAAAAAA6TUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5zUAAAAAAADnNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					211,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHYwAAAAAAAAdjAAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAAeDAAAAAAAAB4MAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					222,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADsBAAAAAAAAPAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwEAAAAAAAA7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					229,
+					1,
+					"",
+					null,
+					"AQAAADwBAAAAAAAAdQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					245,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFw0AAAAAAAAXDQAAAAAAAADAAAA4peO",
+					"AQAAAAAAAAABAAAAXTQAAAAAAABdNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					248,
+					1,
+					"",
+					null,
+					"AQAAAFw0AAAAAAAAaDQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXDQAAAAAAABcNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					250,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAGg0AAAAAAAAaTQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaDQAAAAAAABoNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					252,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAAGk0AAAAAAAAajQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaTQAAAAAAABpNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					267,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAFwBAAAAAAAAXQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					268,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAF0BAAAAAAAAXgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQEAAAAAAABdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					270,
+					1,
+					"insert",
+					{
+						"characters": "FA"
+					},
+					"AgAAAF4BAAAAAAAAXwEAAAAAAAAAAAAAXwEAAAAAAABgAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgEAAAAAAABeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					272,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF8BAAAAAAAAXwEAAAAAAAABAAAAQQ",
+					"AQAAAAAAAAABAAAAYAEAAAAAAABgAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					273,
+					1,
+					"insert",
+					{
+						"characters": "aTikt"
+					},
+					"BQAAAF8BAAAAAAAAYAEAAAAAAAAAAAAAYAEAAAAAAABhAQAAAAAAAAAAAABhAQAAAAAAAGIBAAAAAAAAAAAAAGIBAAAAAAAAYwEAAAAAAAAAAAAAYwEAAAAAAABkAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXwEAAAAAAABfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					274,
+					1,
+					"insert",
+					{
+						"characters": "ok"
+					},
+					"AgAAAGQBAAAAAAAAZQEAAAAAAAAAAAAAZQEAAAAAAABmAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAEAAAAAAABkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					278,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAADgzAAAAAAAAODMAAAAAAAASAAAAV2hhdHNBcHAgY2F0YWxvZ3VlODMAAAAAAABFMwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASjMAAAAAAAA4MwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					284,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADgzAAAAAAAARzMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAODMAAAAAAAA4MwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					299,
+					1,
+					"paste",
+					null,
+					"AQAAAEczAAAAAAAAizMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARzMAAAAAAABHMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					303,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEUzAAAAAAAARTMAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAARzMAAAAAAABHMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					305,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEMzAAAAAAAAQzMAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAARTMAAAAAAABFMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					307,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEEzAAAAAAAAQTMAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAAQzMAAAAAAABDMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					309,
+					5,
+					"left_delete",
+					null,
+					"BQAAAD8zAAAAAAAAPzMAAAAAAAACAAAAICA9MwAAAAAAAD0zAAAAAAAAAgAAACAgOzMAAAAAAAA7MwAAAAAAAAIAAAAgIDkzAAAAAAAAOTMAAAAAAAACAAAAICA4MwAAAAAAADgzAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAQTMAAAAAAABBMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					310,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAADgzAAAAAAAARTMAAAAAAAAAAAAAOTMAAAAAAAA5MwAAAAAAAAwAAAAgICAgICAgICAgICA5MwAAAAAAAEczAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAODMAAAAAAAA4MwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					315,
+					8,
+					"left_delete",
+					null,
+					"CAAAAJgzAAAAAAAAmDMAAAAAAAABAAAAIJYzAAAAAAAAljMAAAAAAAACAAAAICCUMwAAAAAAAJQzAAAAAAAAAgAAACAgkjMAAAAAAACSMwAAAAAAAAIAAAAgIJAzAAAAAAAAkDMAAAAAAAACAAAAICCOMwAAAAAAAI4zAAAAAAAAAgAAACAgjDMAAAAAAACMMwAAAAAAAAIAAAAgIIszAAAAAAAAizMAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAmTMAAAAAAACZMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					317,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIszAAAAAAAAmjMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAizMAAAAAAACLMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					324,
+					9,
+					"left_delete",
+					null,
+					"CQAAAIEzAAAAAAAAgTMAAAAAAAABAAAAbYAzAAAAAAAAgDMAAAAAAAABAAAAYX8zAAAAAAAAfzMAAAAAAAABAAAAcn4zAAAAAAAAfjMAAAAAAAABAAAAZ30zAAAAAAAAfTMAAAAAAAABAAAAYXwzAAAAAAAAfDMAAAAAAAABAAAAdHszAAAAAAAAezMAAAAAAAABAAAAc3ozAAAAAAAAejMAAAAAAAABAAAAbnkzAAAAAAAAeTMAAAAAAAABAAAASQ",
+					"AQAAAAAAAAABAAAAgjMAAAAAAACCMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					326,
 					1,
 					"insert",
 					{
 						"characters": "W"
 					},
-					"AQAAAMkAAAAAAAAAygAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAyQAAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
+					"AQAAAHkzAAAAAAAAejMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeTMAAAAAAAB5MwAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					57,
+					328,
 					1,
 					"insert",
 					{
-						"characters": "R"
+						"characters": "hat"
 					},
-					"AQAAAMoAAAAAAAAAywAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+					"AwAAAHozAAAAAAAAezMAAAAAAAAAAAAAezMAAAAAAAB8MwAAAAAAAAAAAAB8MwAAAAAAAH0zAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAejMAAAAAAAB6MwAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					59,
+					329,
+					1,
+					"insert_completion",
+					{
+						"completion": "FaWhatsapp",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "FaWhatsapp"
+					},
+					"AgAAAHczAAAAAAAAdzMAAAAAAAAGAAAARmFXaGF0dzMAAAAAAACBMwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfTMAAAAAAAB9MwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					338,
 					1,
 					"insert",
 					{
-						"characters": "ITE_TOKEN"
+						"characters": "hatsa"
 					},
-					"CQAAAMsAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADNAAAAAAAAAAAAAADNAAAAAAAAAM4AAAAAAAAAAAAAAM4AAAAAAAAAzwAAAAAAAAAAAAAAzwAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANEAAAAAAAAAAAAAANEAAAAAAAAA0gAAAAAAAAAAAAAA0gAAAAAAAADTAAAAAAAAAAAAAADTAAAAAAAAANQAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAPC/"
+					"BQAAAIozAAAAAAAAizMAAAAAAAAAAAAAizMAAAAAAACMMwAAAAAAAAAAAACMMwAAAAAAAI0zAAAAAAAAAAAAAI0zAAAAAAAAjjMAAAAAAAAAAAAAjjMAAAAAAACPMwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAijMAAAAAAACKMwAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					60,
+					340,
+					1,
+					"insert_completion",
+					{
+						"completion": "WhatsApp",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "WhatsApp"
+					},
+					"AgAAAIozAAAAAAAAijMAAAAAAAAFAAAAaGF0c2GKMwAAAAAAAJIzAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjzMAAAAAAACPMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					358,
 					1,
 					"insert",
 					{
-						"characters": "="
+						"characters": "\n"
 					},
-					"AQAAANQAAAAAAAAA1QAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA1AAAAAAAAADUAAAAAAAAAAAAAAAAAPC/"
+					"AQAAAJA1AAAAAAAAnzUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkDUAAAAAAACQNQAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					69,
+					364,
 					1,
-					"",
+					"paste_and_indent",
 					null,
-					"AQAAAL8AAAAAAAAAPAEAAAAAAAAWAAAAQkxPQl9SRUFEX1dSSVRFX1RPS0VOPQ",
-					"AQAAAAAAAAABAAAA1QAAAAAAAAC/AAAAAAAAAAAAAAAAAPC/"
+					"AQAAAJ81AAAAAAAA5TUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnzUAAAAAAACfNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					366,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOQ1AAAAAAAA5DUAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA5TUAAAAAAADlNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					374,
+					1,
+					"insert",
+					{
+						"characters": "F"
+					},
+					"AQAAAM81AAAAAAAA0DUAAAAAAAALAAAARmFJbnN0YWdyYW0",
+					"AQAAAAAAAAABAAAAzzUAAAAAAADaNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					376,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAANA1AAAAAAAA0TUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0DUAAAAAAADQNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					380,
+					1,
+					"insert_completion",
+					{
+						"completion": "FaTiktok",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "FaTiktok"
+					},
+					"AgAAAM81AAAAAAAAzzUAAAAAAAACAAAARmHPNQAAAAAAANc1AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0TUAAAAAAADRNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					388,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOA1AAAAAAAA4DUAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA4DUAAAAAAADgNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					390,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOA1AAAAAAAA4DUAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA4DUAAAAAAADgNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					392,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOA1AAAAAAAA4DUAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA4DUAAAAAAADgNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					394,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOA1AAAAAAAA4DUAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA4DUAAAAAAADgNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					396,
+					11,
+					"right_delete",
+					null,
+					"CwAAAOA1AAAAAAAA4DUAAAAAAAABAAAAIOA1AAAAAAAA4DUAAAAAAAABAAAAIOA1AAAAAAAA4DUAAAAAAAABAAAAIOA1AAAAAAAA4DUAAAAAAAABAAAAIOA1AAAAAAAA4DUAAAAAAAABAAAAIOA1AAAAAAAA4DUAAAAAAAABAAAAIOA1AAAAAAAA4DUAAAAAAAABAAAAIOA1AAAAAAAA4DUAAAAAAAABAAAAIOA1AAAAAAAA4DUAAAAAAAABAAAAIOA1AAAAAAAA4DUAAAAAAAABAAAAIOA1AAAAAAAA4DUAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA4DUAAAAAAADgNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					398,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOA1AAAAAAAA4DUAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA4DUAAAAAAADgNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					401,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOA1AAAAAAAA4TUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4DUAAAAAAADgNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					409,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOE1AAAAAAAA4TUAAAAAAAAGAAAAVGlrVG9r",
+					"AQAAAAAAAAABAAAA4TUAAAAAAADnNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					411,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOE1AAAAAAAA4TUAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA4TUAAAAAAADhNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					414,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOA1AAAAAAAA4DUAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA4TUAAAAAAADhNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					423,
+					1,
+					"paste",
+					null,
+					"AQAAAHI1AAAAAAAAijUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcjUAAAAAAAByNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					430,
+					1,
+					"right_delete",
+					null,
+					"AQAAANI0AAAAAAAA0jQAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA0jQAAAAAAADSNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					432,
+					1,
+					"right_delete",
+					null,
+					"AQAAANI0AAAAAAAA0jQAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA0jQAAAAAAADSNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					434,
+					13,
+					"right_delete",
+					null,
+					"DQAAANI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAINI0AAAAAAAA0jQAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA0jQAAAAAAADSNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					438,
+					1,
+					"left_delete",
+					null,
+					"AQAAANE0AAAAAAAA0TQAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA0jQAAAAAAADSNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					447,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAIg2AAAAAAAAlTYAAAAAAAAAAAAAiTYAAAAAAACJNgAAAAAAAAwAAAAgICAgICAgICAgICCJNgAAAAAAAJc2AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiDYAAAAAAACINgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					450,
+					1,
+					"paste",
+					null,
+					"AQAAAJc2AAAAAAAA2DYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlzYAAAAAAACXNgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					454,
+					6,
+					"left_delete",
+					null,
+					"BgAAAM42AAAAAAAAzjYAAAAAAAABAAAAa802AAAAAAAAzTYAAAAAAAABAAAAb8w2AAAAAAAAzDYAAAAAAAABAAAAdMs2AAAAAAAAyzYAAAAAAAABAAAAa8o2AAAAAAAAyjYAAAAAAAABAAAAack2AAAAAAAAyTYAAAAAAAABAAAAVA",
+					"AQAAAAAAAAABAAAAzzYAAAAAAADPNgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					455,
+					1,
+					"insert",
+					{
+						"characters": "Facebook"
+					},
+					"CAAAAMk2AAAAAAAAyjYAAAAAAAAAAAAAyjYAAAAAAADLNgAAAAAAAAAAAADLNgAAAAAAAMw2AAAAAAAAAAAAAMw2AAAAAAAAzTYAAAAAAAAAAAAAzTYAAAAAAADONgAAAAAAAAAAAADONgAAAAAAAM82AAAAAAAAAAAAAM82AAAAAAAA0DYAAAAAAAAAAAAA0DYAAAAAAADRNgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyTYAAAAAAADJNgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					461,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAGYBAAAAAAAAZwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgEAAAAAAABmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					462,
+					1,
+					"insert",
+					{
+						"characters": " Fa"
+					},
+					"AwAAAGcBAAAAAAAAaAEAAAAAAAAAAAAAaAEAAAAAAABpAQAAAAAAAAAAAABpAQAAAAAAAGoBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwEAAAAAAABnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					468,
+					1,
+					"insert_completion",
+					{
+						"completion": "FaFacebook",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "FaFacebook"
+					},
+					"AgAAAGgBAAAAAAAAaAEAAAAAAAACAAAARmFoAQAAAAAAAHIBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAagEAAAAAAABqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					477,
+					1,
+					"paste",
+					null,
+					"AQAAAHY2AAAAAAAAjjYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdjYAAAAAAAB2NgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					484,
+					4,
+					"right_delete",
+					null,
+					"BAAAAP42AAAAAAAA/jYAAAAAAAAIAAAARmFjZWJvb2v+NgAAAAAAAP42AAAAAAAAAQAAACD+NgAAAAAAAP42AAAAAAAAAgAAAMK3/jYAAAAAAAD+NgAAAAAAAAEAAAAg",
+					"AQAAAAAAAAABAAAA/jYAAAAAAAAGNwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					489,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ4zAAAAAAAAnjMAAAAAAAA2AAAACiAgICAgICAgICAgICAgPEZvbnRBd2Vzb21lSWNvbiBpY29uPXtmYUFycm93UmlnaHR9IC8+",
+					"AQAAAAAAAAABAAAA1DMAAAAAAACeMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					498,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAAJYzAAAAAAAAlzMAAAAAAAAIAAAAV2hhdHNBcHA",
+					"AQAAAAAAAAABAAAAljMAAAAAAACeMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					500,
+					1,
+					"insert",
+					{
+						"characters": "65"
+					},
+					"AgAAAJczAAAAAAAAmDMAAAAAAAAAAAAAmDMAAAAAAACZMwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlzMAAAAAAACXMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					502,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJkzAAAAAAAAmjMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmTMAAAAAAACZMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					504,
+					1,
+					"insert",
+					{
+						"characters": "8"
+					},
+					"AQAAAJozAAAAAAAAmzMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmjMAAAAAAACaMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					506,
+					1,
+					"insert",
+					{
+						"characters": "56"
+					},
+					"AgAAAJszAAAAAAAAnDMAAAAAAAAAAAAAnDMAAAAAAACdMwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmzMAAAAAAACbMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					507,
+					1,
+					"insert",
+					{
+						"characters": " 49"
+					},
+					"AwAAAJ0zAAAAAAAAnjMAAAAAAAAAAAAAnjMAAAAAAACfMwAAAAAAAAAAAACfMwAAAAAAAKAzAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnTMAAAAAAACdMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					513,
+					1,
+					"insert",
+					{
+						"characters": "39"
+					},
+					"AgAAAKAzAAAAAAAAoTMAAAAAAAAAAAAAoTMAAAAAAACiMwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoDMAAAAAAACgMwAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		},
 		{
-			"contents": "                                                                            \n  Welcome to Bazzite 󰊴                                                      \n                                                                            \n  󱋩  bazzite-asus:stable                                                    \n                                                                            \n    Command                          │ Description                         \n  ────────────────────────────────────┼───────────────────────────────────  \n    ujust                             │ List all available commands         \n    ujust toggle-user-motd            │ Toggle this banner on/off           \n    ujust changelog                   │ View changelog                      \n    fastfetch                         │ View system information             \n                                                                            \n  󰋼 Want to control your device from your phone? The KDE Connect app        \n  functions with all Bazzite images                                         \n  More info https://kdeconnect.kde.org/                                     \n                                                                            \n  •  Report an issue https://github.com/ublue-os/bazzite/issues            \n  • 󰈙 Documentation http://docs.bazzite.gg/                                 \n  • 󰙯 Discord https://discord.bazzite.gg/                                   \n  • 󰫑 Mastodon https://fosstodon.org/@UniversalBlue                         \n  •  Bluesky https://bsky.app/profile/bazzite.gg                           \nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm dev install\n\n> my-project@0.1.0 dev /var/home/moloitk/Documents/GitHub/bunny-apple-treats\n> next dev install\n\nsh: line 1: next: command not found\n ELIFECYCLE  Command failed.\n WARN   Local package.json exists, but node_modules missing, did you mean to install?\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm install\nLockfile is up to date, resolution step is skipped\nPackages: +430                                                                                                                                                                       \n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n                                                                                                                                                                                     \n   ╭───────────────────────────────────────────────╮\n   │                                               │\n   │     Update available! 10.20.0 → 11.24.0.      │\n   │     Changelog: https://pnpm.io/v/11.24.0      │\n   │   To update, run: corepack use pnpm@11.24.0   │\n   │                                               │\n   ╰───────────────────────────────────────────────╯\n\nDownloading @img/sharp-libvips-linux-x64@1.3.2: 8,11 MB/8,11 MB, done\nDownloading @next/swc-linux-x64-gnu@16.3.0: 33,76 MB/33,76 MB, done                                                                                                                  \nDownloading next@16.3.0: 41,54 MB/41,54 MB, done                                                                                                                                     \nProgress: resolved 430, reused 393, downloaded 37, added 430, done                                                                                                                   \n\ndependencies:\n+ @base-ui/react 1.5.0\n+ @fortawesome/fontawesome-svg-core 7.3.1\n+ @fortawesome/free-brands-svg-icons 7.3.1\n+ @fortawesome/free-solid-svg-icons 7.3.1\n+ @fortawesome/react-fontawesome 3.5.0\n+ @vercel/analytics 1.6.1\n+ @vercel/blob 2.8.0\n+ class-variance-authority 0.7.1\n+ clsx 2.1.1\n+ drizzle-orm 0.45.2\n+ lucide-react 1.17.0\n+ next 16.3.0\n+ pg 8.23.0\n+ react 19.2.4\n+ react-dom 19.2.4\n+ shadcn 4.10.0\n+ tailwind-merge 3.4.0\n+ tw-animate-css 1.4.0\n\ndevDependencies:\n+ @tailwindcss/postcss 4.3.3\n+ @types/node 24.10.4\n+ @types/pg 8.23.1\n+ @types/react 19.2.14\n+ @types/react-dom 19.2.3\n+ postcss 8.5.6\n+ tailwindcss 4.3.3\n+ typescript 5.7.3\n\n╭ Warning ───────────────────────────────────────────────────────────────────────────────────╮\n│                                                                                            │\n│   Ignored build scripts: msw.                                                              │\n│   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   │\n│                                                                                            │\n╰───────────────────────────────────────────────────────────────────────────────────────────╯\n\nDone in 22.7s using pnpm v10.20.0\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm dev\n\n> my-project@0.1.0 dev /var/home/moloitk/Documents/GitHub/bunny-apple-treats\n> next dev\n\n▲ Next.js 16.3.0 (Turbopack)\n- Local:         http://localhost:3000\n- Network:       http://192.168.68.110:3000\n✓ Ready in 604ms\n✓ Running next.config.mjs took 30ms\n\n○ Compiling / ...\n GET / 200 in 8.4s (next.js: 8.0s, application-code: 328ms)\n⨯ error: database \"moloitk\" does not exist\n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  length: 93,\n  severity: 'FATAL',\n  code: '3D000',\n  detail: undefined,\n  hint: undefined,\n  position: undefined,\n  internalPosition: undefined,\n  internalQuery: undefined,\n  where: undefined,\n  schema: undefined,\n  table: undefined,\n  column: undefined,\n  dataType: undefined,\n  constraint: undefined,\n  file: 'postinit.c',\n  line: '1021',\n  routine: 'InitPostgres'\n}\n GET /api/catalogue 500 in 750ms (next.js: 370ms, application-code: 380ms)\n⨯ error: database \"moloitk\" does not exist\n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  length: 93,\n  severity: 'FATAL',\n  code: '3D000',\n  detail: undefined,\n  hint: undefined,\n  position: undefined,\n  internalPosition: undefined,\n  internalQuery: undefined,\n  where: undefined,\n  schema: undefined,\n  table: undefined,\n  column: undefined,\n  dataType: undefined,\n  constraint: undefined,\n  file: 'postinit.c',\n  line: '1021',\n  routine: 'InitPostgres'\n}\n GET /api/catalogue 500 in 22ms (next.js: 6ms, application-code: 16ms)\n GET /admin 200 in 1486ms (next.js: 1351ms, application-code: 135ms)\n⨯ error: database \"moloitk\" does not exist\n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  length: 93,\n  severity: 'FATAL',\n  code: '3D000',\n  detail: undefined,\n  hint: undefined,\n  position: undefined,\n  internalPosition: undefined,\n  internalQuery: undefined,\n  where: undefined,\n  schema: undefined,\n  table: undefined,\n  column: undefined,\n  dataType: undefined,\n  constraint: undefined,\n  file: 'postinit.c',\n  line: '1021',\n  routine: 'InitPostgres'\n}\n GET /api/catalogue 500 in 40ms (next.js: 9ms, application-code: 31ms)\n⨯ error: database \"moloitk\" does not exist\n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  length: 93,\n  severity: 'FATAL',\n  code: '3D000',\n  detail: undefined,\n  hint: undefined,\n  position: undefined,\n  internalPosition: undefined,\n  internalQuery: undefined,\n  where: undefined,\n  schema: undefined,\n  table: undefined,\n  column: undefined,\n  dataType: undefined,\n  constraint: undefined,\n  file: 'postinit.c',\n  line: '1021',\n  routine: 'InitPostgres'\n}\n GET /api/catalogue 500 in 49ms (next.js: 4ms, application-code: 46ms)\n POST /api/admin/login 401 in 177ms (next.js: 160ms, application-code: 16ms)\n POST /api/admin/login 401 in 11ms (next.js: 6ms, application-code: 5ms)\n POST /api/admin/login 401 in 9ms (next.js: 4ms, application-code: 5ms)\n POST /api/admin/login 401 in 15ms (next.js: 3ms, application-code: 11ms)\n POST /api/admin/login 401 in 8ms (next.js: 2ms, application-code: 6ms)\n POST /api/admin/login 401 in 7ms (next.js: 2ms, application-code: 4ms)\n POST /api/admin/login 401 in 9ms (next.js: 2ms, application-code: 7ms)\n^C\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ ^C                                                                                                            \n\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ \nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ \nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm dev\n\n> my-project@0.1.0 dev /var/home/moloitk/Documents/GitHub/bunny-apple-treats\n> next dev\n\n▲ Next.js 16.3.0 (Turbopack)\n- Local:         http://localhost:3000\n- Network:       http://192.168.68.110:3000\n- Environments: .env.local\n✓ Ready in 759ms\n✓ Running next.config.mjs took 36ms\n\n GET / 200 in 1034ms (next.js: 469ms, application-code: 565ms)\n(node:16980) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.\nIn the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.\n\nTo prepare for this change:\n- If you want the current behavior, explicitly use 'sslmode=verify-full'\n- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'\n\nSee https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.\n(Use `node --trace-warnings ...` to show where the warning was created)\n GET /api/catalogue 200 in 3.8s (next.js: 122ms, application-code: 3.6s)\n GET /api/catalogue 200 in 4.1s (next.js: 149ms, application-code: 3.9s)\n GET /admin 200 in 347ms (next.js: 191ms, application-code: 156ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 1074ms (next.js: 5ms, application-code: 1070ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 774ms (next.js: 3ms, application-code: 771ms)\n POST /api/admin/login 200 in 79ms (next.js: 62ms, application-code: 17ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 779ms (next.js: 8ms, application-code: 771ms)\n POST /api/admin/login 200 in 13ms (next.js: 4ms, application-code: 8ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 774ms (next.js: 6ms, application-code: 768ms)\n POST /api/admin/login 200 in 14ms (next.js: 3ms, application-code: 11ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 767ms (next.js: 2ms, application-code: 765ms)\n^C\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ ",
+			"contents": "                                                                            \n  Welcome to Bazzite 󰊴                                                      \n                                                                            \n  󱋩  bazzite-asus:stable                                                    \n                                                                            \n    Command                          │ Description                         \n  ────────────────────────────────────┼───────────────────────────────────  \n    ujust                             │ List all available commands         \n    ujust toggle-user-motd            │ Toggle this banner on/off           \n    ujust changelog                   │ View changelog                      \n    fastfetch                         │ View system information             \n                                                                            \n  󰋼 Have a large library of ROMs to manage? ROM Properties Page shell       \n  extension is installed by default and makes it much easier, with          \n  thumbnails and additional info for all of your files                      \n                                                                            \n  •  Report an issue https://github.com/ublue-os/bazzite/issues            \n  • 󰈙 Documentation http://docs.bazzite.gg/                                 \n  • 󰙯 Discord https://discord.bazzite.gg/                                   \n  • 󰫑 Mastodon https://fosstodon.org/@UniversalBlue                         \n  •  Bluesky https://bsky.app/profile/bazzite.gg                           \nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm dev\n\n> my-project@0.1.0 dev /var/home/moloitk/Documents/GitHub/bunny-apple-treats\n> next dev\n\n▲ Next.js 16.3.0 (Turbopack)\n- Local:         http://localhost:3000\n- Network:       http://192.168.68.110:3000\n- Environments: .env.local\n✓ Ready in 895ms\n✓ Running next.config.mjs took 27ms\n\n GET / 200 in 760ms (next.js: 339ms, application-code: 421ms)\n(node:24126) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.\nIn the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.\n\nTo prepare for this change:\n- If you want the current behavior, explicitly use 'sslmode=verify-full'\n- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'\n\nSee https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.\n(Use `node --trace-warnings ...` to show where the warning was created)\n GET /api/catalogue 200 in 2.3s (next.js: 130ms, application-code: 2.2s)\n GET /api/catalogue 200 in 2.3s (next.js: 160ms, application-code: 2.2s)\n GET /admin 200 in 181ms (next.js: 71ms, application-code: 110ms)\n GET /api/catalogue 200 in 503ms (next.js: 5ms, application-code: 499ms)\n GET /api/catalogue 200 in 502ms (next.js: 3ms, application-code: 499ms)\n GET /admin 200 in 308ms (next.js: 157ms, application-code: 151ms)\n GET /admin 200 in 337ms (next.js: 33ms, application-code: 304ms)\n GET /admin 200 in 336ms (next.js: 74ms, application-code: 262ms)\n GET /admin 200 in 338ms (next.js: 120ms, application-code: 218ms)\n GET /admin 200 in 323ms (next.js: 154ms, application-code: 168ms)\n GET /admin 200 in 188ms (next.js: 64ms, application-code: 125ms)\n GET /admin 200 in 190ms (next.js: 104ms, application-code: 86ms)\n GET /admin 200 in 406ms (next.js: 88ms, application-code: 318ms)\n GET /admin 200 in 412ms (next.js: 35ms, application-code: 377ms)\n GET /admin 200 in 397ms (next.js: 156ms, application-code: 241ms)\n GET /admin 200 in 255ms (next.js: 108ms, application-code: 147ms)\n GET /admin 200 in 255ms (next.js: 169ms, application-code: 86ms)\n GET /admin 200 in 263ms (next.js: 71ms, application-code: 192ms)\n GET /admin 200 in 185ms (next.js: 19ms, application-code: 165ms)\n GET /admin 200 in 175ms (next.js: 73ms, application-code: 102ms)\n GET /admin 200 in 108ms (next.js: 66ms, application-code: 41ms)\n✓ Compiled in 521ms\n[browser] ./app/admin/page.tsx:32:8\nError: Expected ';', '}' or <eof>\n  30 |   const save = async (item: CatalogueItem) => { setSaving(true); await fetch('/api/catalogue', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSO...\n  31 |   const add = async () => { c\n> 32 |   onst response = await fetch('/api/catalogue', { \n     |        ^^^^^^^^\n  33 |     method: 'POST', \n  34 |     headers: { 'Content-Type': 'application/json' }, \n  35 |     body: JSON.stringify({ name: 'New treat', category: 'Cakes', price: 0 })\n\nParsing ecmascript source code failed\n\nImport traces:\n  Client Component Browser:\n    ./app/admin/page.tsx [Client Component Browser]\n    ./app/admin/page.tsx [Server Component]\n\n  Client Component SSR:\n    ./app/admin/page.tsx [Client Component SSR]\n    ./app/admin/page.tsx [Server Component] \n[browser] ./app/admin/page.tsx:32:8\nError: Expected ';', '}' or <eof>\n  30 |   const save = async (item: CatalogueItem) => { setSaving(true); await fetch('/api/catalogue', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSO...\n  31 |   const add = async () => { c\n> 32 |   onst response = await fetch('/api/catalogue', { \n     |        ^^^^^^^^\n  33 |     method: 'POST', \n  34 |     headers: { 'Content-Type': 'application/json' }, \n  35 |     body: JSON.stringify({ name: 'New treat', category: 'Cakes', price: 0 })\n\nParsing ecmascript source code failed\n\nImport traces:\n  Client Component Browser:\n    ./app/admin/page.tsx [Client Component Browser]\n    ./app/admin/page.tsx [Server Component]\n\n  Client Component SSR:\n    ./app/admin/page.tsx [Client Component SSR]\n    ./app/admin/page.tsx [Server Component] \n✓ Compiled in 89ms\n GET /admin 200 in 125ms (next.js: 44ms, application-code: 81ms)\n GET /api/admin/session 401 in 692ms (next.js: 641ms, application-code: 51ms)\n GET /api/admin/session 401 in 17ms (next.js: 6ms, application-code: 11ms)\n GET /admin 200 in 158ms (next.js: 4ms, application-code: 154ms)\n GET /api/admin/session 401 in 11ms (next.js: 3ms, application-code: 8ms)\n GET /api/admin/session 401 in 46ms (next.js: 14ms, application-code: 33ms)\n POST /api/admin/login 401 in 56ms (next.js: 46ms, application-code: 10ms)\n POST /api/admin/login 200 in 21ms (next.js: 4ms, application-code: 17ms)\n GET /api/admin/session 200 in 21ms (next.js: 10ms, application-code: 11ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 1233ms (next.js: 55ms, application-code: 1178ms)\n GET /admin 200 in 72ms (next.js: 3ms, application-code: 68ms)\n GET /api/admin/session 200 in 14ms (next.js: 6ms, application-code: 8ms)\n GET /api/admin/session 200 in 15ms (next.js: 4ms, application-code: 10ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 776ms (next.js: 3ms, application-code: 772ms)\n GET /api/catalogue 200 in 2.7s (next.js: 4ms, application-code: 2.7s)\n⨯ AggregateError: \n    at async saveCatalogueItem (lib/catalogue.ts:42:18)\n    at async POST (app/api/catalogue/route.ts:6:202)\n  40 |     return result.rows[0]\n  41 |   }\n> 42 |   const result = await pool.query<CatalogueItem>('INSERT INTO catalogue_items (name, category, price, image, tag, description, available) VALUES ($1,$2,$3,$4,$5,$6,$7) RET...\n     |                  ^\n  43 |   return result.rows[0]\n  44 | }\n  45 | {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    }\n  ]\n}\n POST /api/catalogue 500 in 774ms (next.js: 3ms, application-code: 771ms)\n POST /api/catalogue 200 in 370ms (next.js: 5ms, application-code: 366ms)\n POST /api/catalogue 200 in 376ms (next.js: 5ms, application-code: 370ms)\n POST /api/catalogue 200 in 367ms (next.js: 5ms, application-code: 362ms)\n POST /api/catalogue 200 in 336ms (next.js: 8ms, application-code: 328ms)\n POST /api/catalogue 200 in 386ms (next.js: 3ms, application-code: 382ms)\n POST /api/admin/logout 200 in 149ms (next.js: 137ms, application-code: 12ms)\n GET / 200 in 48ms (next.js: 23ms, application-code: 25ms)\n[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> elemen​‌​\nt. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\n GET /api/catalogue 200 in 695ms (next.js: 20ms, application-code: 674ms)\n[browser] An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the e​‌​\nlement at all or pass null to src instead of an empty string. \n[browser] An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the e​‌​\nlement at all or pass null to src instead of an empty string. \n[browser] An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the e​‌​\nlement at all or pass null to src instead of an empty string. \n[browser] Image is missing required \"src\" property: [object HTMLImageElement] \n[browser] Image is missing required \"src\" property: [object HTMLImageElement] \n[browser] Image is missing required \"src\" property: [object HTMLImageElement] \n GET /api/catalogue 200 in 610ms (next.js: 5ms, application-code: 605ms)\n  Reload env: .env.local\n GET / 200 in 314ms (next.js: 208ms, application-code: 106ms)\n GET / 200 in 537ms (next.js: 69ms, application-code: 468ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 1046ms (next.js: 126ms, application-code: 921ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 809ms (next.js: 3ms, application-code: 806ms)\n^C\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm dev\n\n> my-project@0.1.0 dev /var/home/moloitk/Documents/GitHub/bunny-apple-treats\n> next dev\n\n▲ Next.js 16.3.0 (Turbopack)\n- Local:         http://localhost:3000\n- Network:       http://192.168.68.110:3000\n- Environments: .env.local\n✓ Ready in 884ms\n✓ Running next.config.mjs took 39ms\n\n GET / 200 in 787ms (next.js: 335ms, application-code: 452ms)\n GET / 200 in 81ms (next.js: 6ms, application-code: 75ms)\n(node:31754) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.\nIn the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.\n\nTo prepare for this change:\n- If you want the current behavior, explicitly use 'sslmode=verify-full'\n- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'\n\nSee https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.\n(Use `node --trace-warnings ...` to show where the warning was created)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 35.177.159.226:5432\n        at <unknown> (Error: connect ETIMEDOUT 35.177.159.226:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '35.177.159.226',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2a05:d01c:82:5407:8479:9094:d96d:1976:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2a05:d01c:82:5407:8479:9094:d96d:1976',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 3.10.149.215:5432\n        at <unknown> (Error: connect ETIMEDOUT 3.10.149.215:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '3.10.149.215',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2a05:d01c:82:5424:4735:b278:b7ab:d67a:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2a05:d01c:82:5424:4735:b278:b7ab:d67a',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 35.177.158.108:5432\n        at <unknown> (Error: connect ETIMEDOUT 35.177.158.108:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '35.177.158.108',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2a05:d01c:82:541d:8f17:1c65:f00d:725a:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2a05:d01c:82:541d:8f17:1c65:f00d:725a',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 1470ms (next.js: 157ms, application-code: 1312ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 35.177.159.226:5432\n        at <unknown> (Error: connect ETIMEDOUT 35.177.159.226:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '35.177.159.226',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2a05:d01c:82:5407:8479:9094:d96d:1976:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2a05:d01c:82:5407:8479:9094:d96d:1976',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 3.10.149.215:5432\n        at <unknown> (Error: connect ETIMEDOUT 3.10.149.215:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '3.10.149.215',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2a05:d01c:82:5424:4735:b278:b7ab:d67a:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2a05:d01c:82:5424:4735:b278:b7ab:d67a',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 35.177.158.108:5432\n        at <unknown> (Error: connect ETIMEDOUT 35.177.158.108:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '35.177.158.108',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2a05:d01c:82:541d:8f17:1c65:f00d:725a:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2a05:d01c:82:541d:8f17:1c65:f00d:725a',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 1492ms (next.js: 130ms, application-code: 1362ms)\n GET / 200 in 67ms (next.js: 4ms, application-code: 63ms)\n GET /api/catalogue 200 in 2.3s (next.js: 16ms, application-code: 2.3s)\n GET /api/catalogue 200 in 2.3s (next.js: 60ms, application-code: 2.2s)\n[browser] An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the e​‌​\nlement at all or pass null to src instead of an empty string. \n[browser] An empty string (\"\") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the e​‌​\nlement at all or pass null to src instead of an empty string. \n[browser] Image is missing required \"src\" property: [object HTMLImageElement] \n[browser] Image is missing required \"src\" property: [object HTMLImageElement] \n GET /admin 200 in 327ms (next.js: 207ms, application-code: 119ms)\n GET /api/admin/session 401 in 103ms (next.js: 90ms, application-code: 13ms)\n GET /api/admin/session 401 in 18ms (next.js: 7ms, application-code: 12ms)\n POST /api/admin/login 401 in 77ms (next.js: 67ms, application-code: 10ms)\n POST /api/admin/login 200 in 15ms (next.js: 2ms, application-code: 13ms)\n GET /api/admin/session 200 in 17ms (next.js: 5ms, application-code: 12ms)\n GET /api/catalogue 200 in 2.7s (next.js: 3ms, application-code: 2.7s)\n GET /admin 200 in 60ms (next.js: 4ms, application-code: 56ms)\n GET /api/admin/session 200 in 13ms (next.js: 3ms, application-code: 10ms)\n GET /api/admin/session 200 in 15ms (next.js: 5ms, application-code: 10ms)\n GET /api/catalogue 200 in 2.3s (next.js: 7ms, application-code: 2.3s)\n GET /api/catalogue 200 in 378ms (next.js: 5ms, application-code: 373ms)\n POST /api/catalogue 200 in 267ms (next.js: 11ms, application-code: 257ms)\n POST /api/catalogue 200 in 1657ms (next.js: 4ms, application-code: 1653ms)\n DELETE /api/catalogue 200 in 1435ms (next.js: 11ms, application-code: 1424ms)\n DELETE /api/catalogue 200 in 200ms (next.js: 5ms, application-code: 195ms)\n DELETE /api/catalogue 200 in 204ms (next.js: 3ms, application-code: 201ms)\n DELETE /api/catalogue 200 in 220ms (next.js: 3ms, application-code: 217ms)\n DELETE /api/catalogue 200 in 197ms (next.js: 4ms, application-code: 193ms)\n GET / 200 in 120ms (next.js: 6ms, application-code: 114ms)\n GET /api/catalogue 200 in 1505ms (next.js: 7ms, application-code: 1497ms)\n GET /api/catalogue 200 in 412ms (next.js: 4ms, application-code: 408ms)\n GET / 200 in 233ms (next.js: 79ms, application-code: 154ms)\n GET /api/catalogue 200 in 1635ms (next.js: 12ms, application-code: 1623ms)\n GET /api/catalogue 200 in 381ms (next.js: 9ms, application-code: 372ms)\n^C\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm dev\n\n> my-project@0.1.0 dev /var/home/moloitk/Documents/GitHub/bunny-apple-treats\n> next dev\n\n▲ Next.js 16.3.0 (Turbopack)\n- Local:         http://localhost:3000\n- Network:       http://192.168.68.110:3000\n- Environments: .env.local\n✓ Ready in 1135ms\n✓ Running next.config.mjs took 46ms\n\n GET / 200 in 1480ms (next.js: 981ms, application-code: 499ms)\n GET / 200 in 93ms (next.js: 10ms, application-code: 83ms)\n(node:34644) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.\nIn the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.\n\nTo prepare for this change:\n- If you want the current behavior, explicitly use 'sslmode=verify-full'\n- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'\n\nSee https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.\n(Use `node --trace-warnings ...` to show where the warning was created)\n GET /api/catalogue 200 in 1790ms (next.js: 156ms, application-code: 1634ms)\n GET /api/catalogue 200 in 394ms (next.js: 18ms, application-code: 376ms)\n GET / 200 in 259ms (next.js: 161ms, application-code: 98ms)\n GET /api/catalogue 200 in 460ms (next.js: 64ms, application-code: 397ms)\n GET / 200 in 164ms (next.js: 52ms, application-code: 112ms)-code: 377ms)\n✓ Compiled in 191ms\n GET / 200 in 139ms (next.js: 67ms, application-code: 72ms)\n✓ Compiled in 130ms\n GET / 200 in 122ms (next.js: 30ms, application-code: 92ms)\n✓ Compiled in 155ms\n GET / 200 in 111ms (next.js: 36ms, application-code: 75ms)\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n⨯ ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\n\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n\n✓ Compiled in 501ms\n[browser] ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found \n[browser] ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found \n[browser] ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found \n[browser] ./components/bakery-storefront.tsx:7:1\nError: Module not found: Can't resolve 'react-icons/fa'\n   5 | import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\n   6 | import { faArrowRight, faCheck, faMinus, faPlus, faShoppingBag, faWandSparkles as faSparkles, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'\n>  7 | import { FaInstagram, FaWhatsapp } from 'react-icons/fa';\n     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   8 |\n   9 | const assets = {\n  10 |   logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.png-FMeAZN2r8QFREgN60kcJFWKBGbCJ8Z.jpeg',\n\nImport trace:\n  Server Component:\n    ./components/bakery-storefront.tsx\n    ./app/page.tsx\n\nhttps://nextjs.org/docs/messages/module-not-found \n✓ Compiled in 1316ms\n GET / 200 in 204ms (next.js: 36ms, application-code: 167ms)\n^C\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm dev\n\n> my-project@0.1.0 dev /var/home/moloitk/Documents/GitHub/bunny-apple-treats\n> next dev\n\n▲ Next.js 16.3.0 (Turbopack)\n- Local:         http://localhost:3000\n- Network:       http://192.168.68.110:3000\n- Environments: .env.local\n✓ Ready in 1080ms\n✓ Running next.config.mjs took 42ms\n\n GET / 200 in 1219ms (next.js: 611ms, application-code: 607ms)\n(node:36149) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.\nIn the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.\n\nTo prepare for this change:\n- If you want the current behavior, explicitly use 'sslmode=verify-full'\n- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'\n\nSee https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.\n(Use `node --trace-warnings ...` to show where the warning was created)\n✓ Compiled in 605ms\n GET / 200 in 116ms (next.js: 24ms, application-code: 92ms)\n GET /api/catalogue 200 in 2.7s (next.js: 166ms, application-code: 2.5s)\n GET /api/catalogue 200 in 381ms (next.js: 5ms, application-code: 376ms)\n✓ Compiled in 117ms\n GET / 200 in 131ms (next.js: 37ms, application-code: 94ms)\n✓ Compiled in 82ms\n GET / 200 in 136ms (next.js: 36ms, application-code: 100ms)\n GET / 200 in 153ms (next.js: 9ms, application-code: 144ms)\n GET /api/catalogue 200 in 1577ms (next.js: 4ms, application-code: 1574ms)\n GET /api/catalogue 200 in 397ms (next.js: 6ms, application-code: 391ms)\n✓ Compiled in 71ms\n GET / 200 in 90ms (next.js: 21ms, application-code: 69ms)\n✓ Compiled in 87ms\n GET / 200 in 69ms (next.js: 18ms, application-code: 51ms)\n✓ Compiled in 68ms\n GET / 200 in 74ms (next.js: 12ms, application-code: 63ms)\n✓ Compiled in 824ms\n GET / 200 in 165ms (next.js: 58ms, application-code: 108ms)\n✓ Compiled in 329ms\n GET / 200 in 144ms (next.js: 68ms, application-code: 75ms)\n[browser] Uncaught ReferenceError: FaFacebook is not defined\n    at BakeryStorefront (components/bakery-storefront.tsx:125:63)\n    at Page (app/page.tsx:4:10)\n  123 |\n  124 |             <a href=\"https://www.facebook.com/\" target=\"_blank\" rel=\"noreferrer\" className=\"underline underline-offset-4\">\n> 125 |               <span aria-hidden=\"true\" className=\"text-base\"><FaFacebook/></span>Facebook · Bunny Apple Treats</a>\n      |                                                               ^\n  126 |           </div>\n  127 |         </div>\n  128 |       </section>\n✓ Compiled in 342ms\n GET / 200 in 209ms (next.js: 31ms, application-code: 178ms)\n GET /api/catalogue 200 in 1878ms (next.js: 46ms, application-code: 1832ms)\n GET /api/catalogue 200 in 787ms (next.js: 171ms, application-code: 616ms)\n✓ Compiled in 254ms\n GET / 200 in 150ms (next.js: 47ms, application-code: 103ms)\n✓ Compiled in 209ms\n GET / 200 in 134ms (next.js: 50ms, application-code: 84ms)\n✓ Compiled in 177ms\n GET / 200 in 127ms (next.js: 55ms, application-code: 72ms)\n✓ Compiled in 323ms\n GET / 200 in 232ms (next.js: 115ms, application-code: 117ms)\n✓ Compiled in 125ms\n GET / 200 in 115ms (next.js: 61ms, application-code: 54ms)\n",
 			"settings":
 			{
-				"buffer_size": 23257,
+				"buffer_size": 48519,
 				"line_ending": "Unix",
 				"name": "moloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats",
 				"scratch": true
-			}
+			},
+			"undo_stack":
+			[
+				[
+					138,
+					3,
+					"terminus_render",
+					null,
+					"EAAAAMywAAAAAAAAzrAAAAAAAAAAAAAA6a8AAAAAAADprwAAAAAAAAAAAADqrwAAAAAAAPevAAAAAAAADQAAAEltcG9ydCB0cmFjZTr4rwAAAAAAAAuwAAAAAAAAEwAAACAgU2VydmVyIENvbXBvbmVudDoMsAAAAAAAADKwAAAAAAAAJgAAACAgICAuL2NvbXBvbmVudHMvYmFrZXJ5LXN0b3JlZnJvbnQudHN4M7AAAAAAAABFsAAAAAAAABIAAAAgICAgLi9hcHAvcGFnZS50c3hGsAAAAAAAAEawAAAAAAAAAAAAAEewAAAAAAAAeLAAAAAAAAAyAAAAaHR0cHM6Ly9uZXh0anMub3JnL2RvY3MvbWVzc2FnZXMvbW9kdWxlLW5vdC1mb3VuZCB4sAAAAAAAAHmwAAAAAAAAAAAAAHqwAAAAAAAAjrAAAAAAAAAWAAAA4pyTIENvbXBpbGVkIGluIDEzMTZtc4+wAAAAAAAAy7AAAAAAAAA8AAAAIEdFVCAvIDIwMCBpbiAyMDRtcyAobmV4dC5qczogMzZtcywgYXBwbGljYXRpb24tY29kZTogMTY3bXMpzLAAAAAAAADOsAAAAAAAAAIAAABeQ86wAAAAAAAAz7AAAAAAAAAAAAAAz7AAAAAAAADPsAAAAAAAAAAAAADPsAAAAAAAABWxAAAAAAAAAAAAABWxAAAAAAAAFrEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzLAAAAAAAADMsAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAM+wAAAAAAAAHrEAAAAAAABHAAAAbW9sb2l0a0BiYXp6aXRlOi92YXIvaG9tZS9tb2xvaXRrL0RvY3VtZW50cy9HaXRIdWIvYnVubnktYXBwbGUtdHJlYXRzJCA",
+					"AQAAAAAAAAABAAAAFrEAAAAAAAAWsQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					144,
+					3,
+					"terminus_render",
+					null,
+					"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"
+				],
+				[
+					145,
+					2,
+					"terminus_render",
+					null,
+					"GAAAAB+xAAAAAAAAH7EAAAAAAAAAAAAAILEAAAAAAABssQAAAAAAAEwAAAA+IG15LXByb2plY3RAMC4xLjAgZGV2IC92YXIvaG9tZS9tb2xvaXRrL0RvY3VtZW50cy9HaXRIdWIvYnVubnktYXBwbGUtdHJlYXRzbbEAAAAAAAB3sQAAAAAAAAoAAAA+IG5leHQgZGV2eLEAAAAAAAB4sQAAAAAAAAAAAAB5sQAAAAAAAJWxAAAAAAAAHgAAAOKWsiBOZXh0LmpzIDE2LjMuMCAoVHVyYm9wYWNrKZaxAAAAAAAAvLEAAAAAAAAmAAAALSBMb2NhbDogICAgICAgICBodHRwOi8vbG9jYWxob3N0OjMwMDC9sQAAAAAAAOixAAAAAAAAKwAAAC0gTmV0d29yazogICAgICAgaHR0cDovLzE5Mi4xNjguNjguMTEwOjMwMDDpsQAAAAAAAAOyAAAAAAAAGgAAAC0gRW52aXJvbm1lbnRzOiAuZW52LmxvY2FsBLIAAAAAAAAVsgAAAAAAABMAAADinJMgUmVhZHkgaW4gMTA4MG1zFrIAAAAAAAA5sgAAAAAAAAAAAAA5sgAAAAAAADqyAAAAAAAAAAAAADqyAAAAAAAAOrIAAAAAAAAAAAAAILEAAAAAAABssQAAAAAAAEwAAAA+IG15LXByb2plY3RAMC4xLjAgZGV2IC92YXIvaG9tZS9tb2xvaXRrL0RvY3VtZW50cy9HaXRIdWIvYnVubnktYXBwbGUtdHJlYXRzbbEAAAAAAAB3sQAAAAAAAAoAAAA+IG5leHQgZGV2eLEAAAAAAAB4sQAAAAAAAAAAAAB5sQAAAAAAAJWxAAAAAAAAHgAAAOKWsiBOZXh0LmpzIDE2LjMuMCAoVHVyYm9wYWNrKZaxAAAAAAAAvLEAAAAAAAAmAAAALSBMb2NhbDogICAgICAgICBodHRwOi8vbG9jYWxob3N0OjMwMDC9sQAAAAAAAOixAAAAAAAAKwAAAC0gTmV0d29yazogICAgICAgaHR0cDovLzE5Mi4xNjguNjguMTEwOjMwMDDpsQAAAAAAAAOyAAAAAAAAGgAAAC0gRW52aXJvbm1lbnRzOiAuZW52LmxvY2FsBLIAAAAAAAAVsgAAAAAAABMAAADinJMgUmVhZHkgaW4gMTA4MG1zFrIAAAAAAAA5sgAAAAAAACUAAADinJMgUnVubmluZyBuZXh0LmNvbmZpZy5tanMgdG9vayA0Mm1zOrIAAAAAAAA6sgAAAAAAAAAAAAA6sgAAAAAAADuyAAAAAAAAAAAAADuyAAAAAAAAO7IAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFrIAAAAAAAAWsgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"terminus_render",
+					null,
+					"DAAAAG2xAAAAAAAAd7EAAAAAAAAKAAAAPiBuZXh0IGRldnixAAAAAAAAeLEAAAAAAAAAAAAAebEAAAAAAACVsQAAAAAAAB4AAADilrIgTmV4dC5qcyAxNi4zLjAgKFR1cmJvcGFjaymWsQAAAAAAALyxAAAAAAAAJgAAAC0gTG9jYWw6ICAgICAgICAgaHR0cDovL2xvY2FsaG9zdDozMDAwvbEAAAAAAADosQAAAAAAACsAAAAtIE5ldHdvcms6ICAgICAgIGh0dHA6Ly8xOTIuMTY4LjY4LjExMDozMDAw6bEAAAAAAAADsgAAAAAAABoAAAAtIEVudmlyb25tZW50czogLmVudi5sb2NhbASyAAAAAAAAFbIAAAAAAAATAAAA4pyTIFJlYWR5IGluIDEwODBtcxayAAAAAAAAObIAAAAAAAAlAAAA4pyTIFJ1bm5pbmcgbmV4dC5jb25maWcubWpzIHRvb2sgNDJtczqyAAAAAAAAOrIAAAAAAAAAAAAAO7IAAAAAAAB5sgAAAAAAAAAAAAB5sgAAAAAAAHqyAAAAAAAAAAAAAHqyAAAAAAAAerIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAO7IAAAAAAAA7sgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					147,
+					3,
+					"terminus_render",
+					null,
+					"NAAAADuyAAAAAAAAebIAAAAAAAA+AAAAIEdFVCAvIDIwMCBpbiAxMjE5bXMgKG5leHQuanM6IDYxMW1zLCBhcHBsaWNhdGlvbi1jb2RlOiA2MDdtcyk6sgAAAAAAADqyAAAAAAAAAAAAABayAAAAAAAAObIAAAAAAAAlAAAA4pyTIFJ1bm5pbmcgbmV4dC5jb25maWcubWpzIHRvb2sgNDJtcwSyAAAAAAAAFbIAAAAAAAATAAAA4pyTIFJlYWR5IGluIDEwODBtc+mxAAAAAAAAA7IAAAAAAAAaAAAALSBFbnZpcm9ubWVudHM6IC5lbnYubG9jYWy9sQAAAAAAAOixAAAAAAAAKwAAAC0gTmV0d29yazogICAgICAgaHR0cDovLzE5Mi4xNjguNjguMTEwOjMwMDCWsQAAAAAAALyxAAAAAAAAJgAAAC0gTG9jYWw6ICAgICAgICAgaHR0cDovL2xvY2FsaG9zdDozMDAwebEAAAAAAACVsQAAAAAAAB4AAADilrIgTmV4dC5qcyAxNi4zLjAgKFR1cmJvcGFjayl4sQAAAAAAAHixAAAAAAAAAAAAAHqyAAAAAAAA/rIAAAAAAAAAAAAA/rIAAAAAAAD/sgAAAAAAAAAAAAD/sgAAAAAAAJ2zAAAAAAAAAAAAAJ2zAAAAAAAAnrMAAAAAAAAAAAAAnrMAAAAAAACeswAAAAAAAAAAAACeswAAAAAAAJ+zAAAAAAAAAAAAAJ+zAAAAAAAAurMAAAAAAAAAAAAAurMAAAAAAAC7swAAAAAAAAAAAAC7swAAAAAAAAO0AAAAAAAAAAAAAAO0AAAAAAAABLQAAAAAAAAAAAAABLQAAAAAAABUtAAAAAAAAAAAAABUtAAAAAAAAFW0AAAAAAAAAAAAAFW0AAAAAAAAVbQAAAAAAAAAAAAAVbQAAAAAAABWtAAAAAAAAAAAAABWtAAAAAAAALC0AAAAAAAAAAAAALC0AAAAAAAAsbQAAAAAAAAAAAAAsbQAAAAAAAD4tAAAAAAAAAAAAAD4tAAAAAAAAPm0AAAAAAAAAAAAAPm0AAAAAAAA+bQAAAAAAAAAAAAAerIAAAAAAAD+sgAAAAAAAIQAAAAobm9kZTozNjE0OSkgV2FybmluZzogU0VDVVJJVFkgV0FSTklORzogVGhlIFNTTCBtb2RlcyAncHJlZmVyJywgJ3JlcXVpcmUnLCBhbmQgJ3ZlcmlmeS1jYScgYXJlIHRyZWF0ZWQgYXMgYWxpYXNlcyBmb3IgJ3ZlcmlmeS1mdWxsJy7/sgAAAAAAAJ2zAAAAAAAAngAAAEluIHRoZSBuZXh0IG1ham9yIHZlcnNpb24gKHBnLWNvbm5lY3Rpb24tc3RyaW5nIHYzLjAuMCBhbmQgcGcgdjkuMC4wKSwgdGhlc2UgbW9kZXMgd2lsbCBhZG9wdCBzdGFuZGFyZCBsaWJwcSBzZW1hbnRpY3MsIHdoaWNoIGhhdmUgd2Vha2VyIHNlY3VyaXR5IGd1YXJhbnRlZXMunrMAAAAAAACeswAAAAAAAAAAAACfswAAAAAAALqzAAAAAAAAGwAAAFRvIHByZXBhcmUgZm9yIHRoaXMgY2hhbmdlOruzAAAAAAAAA7QAAAAAAABIAAAALSBJZiB5b3Ugd2FudCB0aGUgY3VycmVudCBiZWhhdmlvciwgZXhwbGljaXRseSB1c2UgJ3NzbG1vZGU9dmVyaWZ5LWZ1bGwnBLQAAAAAAABUtAAAAAAAAFAAAAAtIElmIHlvdSB3YW50IGxpYnBxIGNvbXBhdGliaWxpdHkgbm93LCB1c2UgJ3VzZWxpYnBxY29tcGF0PXRydWUmc3NsbW9kZT1yZXF1aXJlJ1W0AAAAAAAAVbQAAAAAAAAAAAAAVrQAAAAAAACwtAAAAAAAAFoAAABTZWUgaHR0cHM6Ly93d3cucG9zdGdyZXNxbC5vcmcvZG9jcy9jdXJyZW50L2xpYnBxLXNzbC5odG1sIGZvciBsaWJwcSBTU0wgbW9kZSBkZWZpbml0aW9ucy6xtAAAAAAAAPi0AAAAAAAARwAAAChVc2UgYG5vZGUgLS10cmFjZS13YXJuaW5ncyAuLi5gIHRvIHNob3cgd2hlcmUgdGhlIHdhcm5pbmcgd2FzIGNyZWF0ZWQp+bQAAAAAAAAMtQAAAAAAAAAAAAAMtQAAAAAAAA21AAAAAAAAAAAAAA21AAAAAAAADbUAAAAAAAAAAAAA/7IAAAAAAACdswAAAAAAAJ4AAABJbiB0aGUgbmV4dCBtYWpvciB2ZXJzaW9uIChwZy1jb25uZWN0aW9uLXN0cmluZyB2My4wLjAgYW5kIHBnIHY5LjAuMCksIHRoZXNlIG1vZGVzIHdpbGwgYWRvcHQgc3RhbmRhcmQgbGlicHEgc2VtYW50aWNzLCB3aGljaCBoYXZlIHdlYWtlciBzZWN1cml0eSBndWFyYW50ZWVzLp6zAAAAAAAAnrMAAAAAAAAAAAAAn7MAAAAAAAC6swAAAAAAABsAAABUbyBwcmVwYXJlIGZvciB0aGlzIGNoYW5nZTq7swAAAAAAAAO0AAAAAAAASAAAAC0gSWYgeW91IHdhbnQgdGhlIGN1cnJlbnQgYmVoYXZpb3IsIGV4cGxpY2l0bHkgdXNlICdzc2xtb2RlPXZlcmlmeS1mdWxsJwS0AAAAAAAAVLQAAAAAAABQAAAALSBJZiB5b3Ugd2FudCBsaWJwcSBjb21wYXRpYmlsaXR5IG5vdywgdXNlICd1c2VsaWJwcWNvbXBhdD10cnVlJnNzbG1vZGU9cmVxdWlyZSdVtAAAAAAAAFW0AAAAAAAAAAAAAFa0AAAAAAAAsLQAAAAAAABaAAAAU2VlIGh0dHBzOi8vd3d3LnBvc3RncmVzcWwub3JnL2RvY3MvY3VycmVudC9saWJwcS1zc2wuaHRtbCBmb3IgbGlicHEgU1NMIG1vZGUgZGVmaW5pdGlvbnMusbQAAAAAAAD4tAAAAAAAAEcAAAAoVXNlIGBub2RlIC0tdHJhY2Utd2FybmluZ3MgLi4uYCB0byBzaG93IHdoZXJlIHRoZSB3YXJuaW5nIHdhcyBjcmVhdGVkKfm0AAAAAAAADLUAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDYwNW1zDbUAAAAAAABItQAAAAAAAAAAAABItQAAAAAAAEm1AAAAAAAAAAAAAEm1AAAAAAAASbUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAerIAAAAAAAB6sgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					148,
+					2,
+					"terminus_render",
+					null,
+					"GAAAAJ6zAAAAAAAAnrMAAAAAAAAAAAAAn7MAAAAAAAC6swAAAAAAABsAAABUbyBwcmVwYXJlIGZvciB0aGlzIGNoYW5nZTq7swAAAAAAAAO0AAAAAAAASAAAAC0gSWYgeW91IHdhbnQgdGhlIGN1cnJlbnQgYmVoYXZpb3IsIGV4cGxpY2l0bHkgdXNlICdzc2xtb2RlPXZlcmlmeS1mdWxsJwS0AAAAAAAAVLQAAAAAAABQAAAALSBJZiB5b3Ugd2FudCBsaWJwcSBjb21wYXRpYmlsaXR5IG5vdywgdXNlICd1c2VsaWJwcWNvbXBhdD10cnVlJnNzbG1vZGU9cmVxdWlyZSdVtAAAAAAAAFW0AAAAAAAAAAAAAFa0AAAAAAAAsLQAAAAAAABaAAAAU2VlIGh0dHBzOi8vd3d3LnBvc3RncmVzcWwub3JnL2RvY3MvY3VycmVudC9saWJwcS1zc2wuaHRtbCBmb3IgbGlicHEgU1NMIG1vZGUgZGVmaW5pdGlvbnMusbQAAAAAAAD4tAAAAAAAAEcAAAAoVXNlIGBub2RlIC0tdHJhY2Utd2FybmluZ3MgLi4uYCB0byBzaG93IHdoZXJlIHRoZSB3YXJuaW5nIHdhcyBjcmVhdGVkKfm0AAAAAAAADLUAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDYwNW1zDbUAAAAAAABItQAAAAAAADsAAAAgR0VUIC8gMjAwIGluIDExNm1zIChuZXh0LmpzOiAyNG1zLCBhcHBsaWNhdGlvbi1jb2RlOiA5Mm1zKUm1AAAAAAAAkbUAAAAAAAAAAAAAkbUAAAAAAACStQAAAAAAAAAAAACStQAAAAAAAJK1AAAAAAAAAAAAAJ+zAAAAAAAAurMAAAAAAAAbAAAAVG8gcHJlcGFyZSBmb3IgdGhpcyBjaGFuZ2U6u7MAAAAAAAADtAAAAAAAAEgAAAAtIElmIHlvdSB3YW50IHRoZSBjdXJyZW50IGJlaGF2aW9yLCBleHBsaWNpdGx5IHVzZSAnc3NsbW9kZT12ZXJpZnktZnVsbCcEtAAAAAAAAFS0AAAAAAAAUAAAAC0gSWYgeW91IHdhbnQgbGlicHEgY29tcGF0aWJpbGl0eSBub3csIHVzZSAndXNlbGlicHFjb21wYXQ9dHJ1ZSZzc2xtb2RlPXJlcXVpcmUnVbQAAAAAAABVtAAAAAAAAAAAAABWtAAAAAAAALC0AAAAAAAAWgAAAFNlZSBodHRwczovL3d3dy5wb3N0Z3Jlc3FsLm9yZy9kb2NzL2N1cnJlbnQvbGlicHEtc3NsLmh0bWwgZm9yIGxpYnBxIFNTTCBtb2RlIGRlZmluaXRpb25zLrG0AAAAAAAA+LQAAAAAAABHAAAAKFVzZSBgbm9kZSAtLXRyYWNlLXdhcm5pbmdzIC4uLmAgdG8gc2hvdyB3aGVyZSB0aGUgd2FybmluZyB3YXMgY3JlYXRlZCn5tAAAAAAAAAy1AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiA2MDVtcw21AAAAAAAASLUAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxMTZtcyAobmV4dC5qczogMjRtcywgYXBwbGljYXRpb24tY29kZTogOTJtcylJtQAAAAAAAJG1AAAAAAAASAAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDIuN3MgKG5leHQuanM6IDE2Nm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAyLjVzKZK1AAAAAAAA2rUAAAAAAAAAAAAA2rUAAAAAAADbtQAAAAAAAAAAAADbtQAAAAAAANu1AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASbUAAAAAAABJtQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					149,
+					2,
+					"terminus_render",
+					null,
+					"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"
+				],
+				[
+					150,
+					3,
+					"terminus_render",
+					null,
+					"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"
+				],
+				[
+					151,
+					2,
+					"terminus_render",
+					null,
+					"GAAAAPm0AAAAAAAADLUAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDYwNW1zDbUAAAAAAABItQAAAAAAADsAAAAgR0VUIC8gMjAwIGluIDExNm1zIChuZXh0LmpzOiAyNG1zLCBhcHBsaWNhdGlvbi1jb2RlOiA5Mm1zKUm1AAAAAAAAkbUAAAAAAABIAAAAIEdFVCAvYXBpL2NhdGFsb2d1ZSAyMDAgaW4gMi43cyAobmV4dC5qczogMTY2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDIuNXMpkrUAAAAAAADatQAAAAAAAEgAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAzODFtcyAobmV4dC5qczogNW1zLCBhcHBsaWNhdGlvbi1jb2RlOiAzNzZtcynbtQAAAAAAAO61AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAxMTdtc++1AAAAAAAAKrYAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxMzFtcyAobmV4dC5qczogMzdtcywgYXBwbGljYXRpb24tY29kZTogOTRtcykrtgAAAAAAAD22AAAAAAAAFAAAAOKckyBDb21waWxlZCBpbiA4Mm1zPrYAAAAAAAB6tgAAAAAAADwAAAAgR0VUIC8gMjAwIGluIDEzNm1zIChuZXh0LmpzOiAzNm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxMDBtcyl7tgAAAAAAALa2AAAAAAAAOwAAACBHRVQgLyAyMDAgaW4gMTUzbXMgKG5leHQuanM6IDltcywgYXBwbGljYXRpb24tY29kZTogMTQ0bXMpt7YAAAAAAAABtwAAAAAAAAAAAAABtwAAAAAAAAK3AAAAAAAAAAAAAAK3AAAAAAAAArcAAAAAAAAAAAAADbUAAAAAAABItQAAAAAAADsAAAAgR0VUIC8gMjAwIGluIDExNm1zIChuZXh0LmpzOiAyNG1zLCBhcHBsaWNhdGlvbi1jb2RlOiA5Mm1zKUm1AAAAAAAAkbUAAAAAAABIAAAAIEdFVCAvYXBpL2NhdGFsb2d1ZSAyMDAgaW4gMi43cyAobmV4dC5qczogMTY2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDIuNXMpkrUAAAAAAADatQAAAAAAAEgAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAzODFtcyAobmV4dC5qczogNW1zLCBhcHBsaWNhdGlvbi1jb2RlOiAzNzZtcynbtQAAAAAAAO61AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAxMTdtc++1AAAAAAAAKrYAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxMzFtcyAobmV4dC5qczogMzdtcywgYXBwbGljYXRpb24tY29kZTogOTRtcykrtgAAAAAAAD22AAAAAAAAFAAAAOKckyBDb21waWxlZCBpbiA4Mm1zPrYAAAAAAAB6tgAAAAAAADwAAAAgR0VUIC8gMjAwIGluIDEzNm1zIChuZXh0LmpzOiAzNm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxMDBtcyl7tgAAAAAAALa2AAAAAAAAOwAAACBHRVQgLyAyMDAgaW4gMTUzbXMgKG5leHQuanM6IDltcywgYXBwbGljYXRpb24tY29kZTogMTQ0bXMpt7YAAAAAAAABtwAAAAAAAEoAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAxNTc3bXMgKG5leHQuanM6IDRtcywgYXBwbGljYXRpb24tY29kZTogMTU3NG1zKQK3AAAAAAAASrcAAAAAAAAAAAAASrcAAAAAAABLtwAAAAAAAAAAAABLtwAAAAAAAEu3AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAt7YAAAAAAAC3tgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					2,
+					"terminus_render",
+					null,
+					"GAAAAEm1AAAAAAAAkbUAAAAAAABIAAAAIEdFVCAvYXBpL2NhdGFsb2d1ZSAyMDAgaW4gMi43cyAobmV4dC5qczogMTY2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDIuNXMpkrUAAAAAAADatQAAAAAAAEgAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAzODFtcyAobmV4dC5qczogNW1zLCBhcHBsaWNhdGlvbi1jb2RlOiAzNzZtcynbtQAAAAAAAO61AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAxMTdtc++1AAAAAAAAKrYAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxMzFtcyAobmV4dC5qczogMzdtcywgYXBwbGljYXRpb24tY29kZTogOTRtcykrtgAAAAAAAD22AAAAAAAAFAAAAOKckyBDb21waWxlZCBpbiA4Mm1zPrYAAAAAAAB6tgAAAAAAADwAAAAgR0VUIC8gMjAwIGluIDEzNm1zIChuZXh0LmpzOiAzNm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxMDBtcyl7tgAAAAAAALa2AAAAAAAAOwAAACBHRVQgLyAyMDAgaW4gMTUzbXMgKG5leHQuanM6IDltcywgYXBwbGljYXRpb24tY29kZTogMTQ0bXMpt7YAAAAAAAABtwAAAAAAAEoAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAxNTc3bXMgKG5leHQuanM6IDRtcywgYXBwbGljYXRpb24tY29kZTogMTU3NG1zKQK3AAAAAAAASrcAAAAAAABIAAAAIEdFVCAvYXBpL2NhdGFsb2d1ZSAyMDAgaW4gMzk3bXMgKG5leHQuanM6IDZtcywgYXBwbGljYXRpb24tY29kZTogMzkxbXMpS7cAAAAAAABdtwAAAAAAAAAAAABdtwAAAAAAAF63AAAAAAAAAAAAAF63AAAAAAAAXrcAAAAAAAAAAAAAkrUAAAAAAADatQAAAAAAAEgAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAzODFtcyAobmV4dC5qczogNW1zLCBhcHBsaWNhdGlvbi1jb2RlOiAzNzZtcynbtQAAAAAAAO61AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAxMTdtc++1AAAAAAAAKrYAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxMzFtcyAobmV4dC5qczogMzdtcywgYXBwbGljYXRpb24tY29kZTogOTRtcykrtgAAAAAAAD22AAAAAAAAFAAAAOKckyBDb21waWxlZCBpbiA4Mm1zPrYAAAAAAAB6tgAAAAAAADwAAAAgR0VUIC8gMjAwIGluIDEzNm1zIChuZXh0LmpzOiAzNm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxMDBtcyl7tgAAAAAAALa2AAAAAAAAOwAAACBHRVQgLyAyMDAgaW4gMTUzbXMgKG5leHQuanM6IDltcywgYXBwbGljYXRpb24tY29kZTogMTQ0bXMpt7YAAAAAAAABtwAAAAAAAEoAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAxNTc3bXMgKG5leHQuanM6IDRtcywgYXBwbGljYXRpb24tY29kZTogMTU3NG1zKQK3AAAAAAAASrcAAAAAAABIAAAAIEdFVCAvYXBpL2NhdGFsb2d1ZSAyMDAgaW4gMzk3bXMgKG5leHQuanM6IDZtcywgYXBwbGljYXRpb24tY29kZTogMzkxbXMpS7cAAAAAAABdtwAAAAAAABQAAADinJMgQ29tcGlsZWQgaW4gNzFtc163AAAAAAAAmLcAAAAAAAAAAAAAmLcAAAAAAACZtwAAAAAAAAAAAACZtwAAAAAAAJm3AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAS7cAAAAAAABLtwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					153,
+					2,
+					"terminus_render",
+					null,
+					"GAAAANu1AAAAAAAA7rUAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDExN21z77UAAAAAAAAqtgAAAAAAADsAAAAgR0VUIC8gMjAwIGluIDEzMW1zIChuZXh0LmpzOiAzN21zLCBhcHBsaWNhdGlvbi1jb2RlOiA5NG1zKSu2AAAAAAAAPbYAAAAAAAAUAAAA4pyTIENvbXBpbGVkIGluIDgybXM+tgAAAAAAAHq2AAAAAAAAPAAAACBHRVQgLyAyMDAgaW4gMTM2bXMgKG5leHQuanM6IDM2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDEwMG1zKXu2AAAAAAAAtrYAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxNTNtcyAobmV4dC5qczogOW1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxNDRtcym3tgAAAAAAAAG3AAAAAAAASgAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDE1NzdtcyAobmV4dC5qczogNG1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxNTc0bXMpArcAAAAAAABKtwAAAAAAAEgAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAzOTdtcyAobmV4dC5qczogNm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAzOTFtcylLtwAAAAAAAF23AAAAAAAAFAAAAOKckyBDb21waWxlZCBpbiA3MW1zXrcAAAAAAACYtwAAAAAAADoAAAAgR0VUIC8gMjAwIGluIDkwbXMgKG5leHQuanM6IDIxbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDY5bXMpmbcAAAAAAACrtwAAAAAAAAAAAACrtwAAAAAAAKy3AAAAAAAAAAAAAKy3AAAAAAAArLcAAAAAAAAAAAAA77UAAAAAAAAqtgAAAAAAADsAAAAgR0VUIC8gMjAwIGluIDEzMW1zIChuZXh0LmpzOiAzN21zLCBhcHBsaWNhdGlvbi1jb2RlOiA5NG1zKSu2AAAAAAAAPbYAAAAAAAAUAAAA4pyTIENvbXBpbGVkIGluIDgybXM+tgAAAAAAAHq2AAAAAAAAPAAAACBHRVQgLyAyMDAgaW4gMTM2bXMgKG5leHQuanM6IDM2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDEwMG1zKXu2AAAAAAAAtrYAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxNTNtcyAobmV4dC5qczogOW1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxNDRtcym3tgAAAAAAAAG3AAAAAAAASgAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDE1NzdtcyAobmV4dC5qczogNG1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxNTc0bXMpArcAAAAAAABKtwAAAAAAAEgAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAzOTdtcyAobmV4dC5qczogNm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAzOTFtcylLtwAAAAAAAF23AAAAAAAAFAAAAOKckyBDb21waWxlZCBpbiA3MW1zXrcAAAAAAACYtwAAAAAAADoAAAAgR0VUIC8gMjAwIGluIDkwbXMgKG5leHQuanM6IDIxbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDY5bXMpmbcAAAAAAACrtwAAAAAAABQAAADinJMgQ29tcGlsZWQgaW4gODdtc6y3AAAAAAAA5rcAAAAAAAAAAAAA5rcAAAAAAADntwAAAAAAAAAAAADntwAAAAAAAOe3AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmbcAAAAAAACZtwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					2,
+					"terminus_render",
+					null,
+					"GAAAACu2AAAAAAAAPbYAAAAAAAAUAAAA4pyTIENvbXBpbGVkIGluIDgybXM+tgAAAAAAAHq2AAAAAAAAPAAAACBHRVQgLyAyMDAgaW4gMTM2bXMgKG5leHQuanM6IDM2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDEwMG1zKXu2AAAAAAAAtrYAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxNTNtcyAobmV4dC5qczogOW1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxNDRtcym3tgAAAAAAAAG3AAAAAAAASgAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDE1NzdtcyAobmV4dC5qczogNG1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxNTc0bXMpArcAAAAAAABKtwAAAAAAAEgAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAzOTdtcyAobmV4dC5qczogNm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAzOTFtcylLtwAAAAAAAF23AAAAAAAAFAAAAOKckyBDb21waWxlZCBpbiA3MW1zXrcAAAAAAACYtwAAAAAAADoAAAAgR0VUIC8gMjAwIGluIDkwbXMgKG5leHQuanM6IDIxbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDY5bXMpmbcAAAAAAACrtwAAAAAAABQAAADinJMgQ29tcGlsZWQgaW4gODdtc6y3AAAAAAAA5rcAAAAAAAA6AAAAIEdFVCAvIDIwMCBpbiA2OW1zIChuZXh0LmpzOiAxOG1zLCBhcHBsaWNhdGlvbi1jb2RlOiA1MW1zKee3AAAAAAAA+bcAAAAAAAAAAAAA+bcAAAAAAAD6twAAAAAAAAAAAAD6twAAAAAAAPq3AAAAAAAAAAAAAD62AAAAAAAAerYAAAAAAAA8AAAAIEdFVCAvIDIwMCBpbiAxMzZtcyAobmV4dC5qczogMzZtcywgYXBwbGljYXRpb24tY29kZTogMTAwbXMpe7YAAAAAAAC2tgAAAAAAADsAAAAgR0VUIC8gMjAwIGluIDE1M21zIChuZXh0LmpzOiA5bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDE0NG1zKbe2AAAAAAAAAbcAAAAAAABKAAAAIEdFVCAvYXBpL2NhdGFsb2d1ZSAyMDAgaW4gMTU3N21zIChuZXh0LmpzOiA0bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDE1NzRtcykCtwAAAAAAAEq3AAAAAAAASAAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDM5N21zIChuZXh0LmpzOiA2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDM5MW1zKUu3AAAAAAAAXbcAAAAAAAAUAAAA4pyTIENvbXBpbGVkIGluIDcxbXNetwAAAAAAAJi3AAAAAAAAOgAAACBHRVQgLyAyMDAgaW4gOTBtcyAobmV4dC5qczogMjFtcywgYXBwbGljYXRpb24tY29kZTogNjltcymZtwAAAAAAAKu3AAAAAAAAFAAAAOKckyBDb21waWxlZCBpbiA4N21zrLcAAAAAAADmtwAAAAAAADoAAAAgR0VUIC8gMjAwIGluIDY5bXMgKG5leHQuanM6IDE4bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDUxbXMp57cAAAAAAAD5twAAAAAAABQAAADinJMgQ29tcGlsZWQgaW4gNjhtc/q3AAAAAAAANLgAAAAAAAAAAAAANLgAAAAAAAA1uAAAAAAAAAAAAAA1uAAAAAAAADW4AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA57cAAAAAAADntwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					155,
+					2,
+					"terminus_render",
+					null,
+					"GAAAAHu2AAAAAAAAtrYAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxNTNtcyAobmV4dC5qczogOW1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxNDRtcym3tgAAAAAAAAG3AAAAAAAASgAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDE1NzdtcyAobmV4dC5qczogNG1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxNTc0bXMpArcAAAAAAABKtwAAAAAAAEgAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAzOTdtcyAobmV4dC5qczogNm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAzOTFtcylLtwAAAAAAAF23AAAAAAAAFAAAAOKckyBDb21waWxlZCBpbiA3MW1zXrcAAAAAAACYtwAAAAAAADoAAAAgR0VUIC8gMjAwIGluIDkwbXMgKG5leHQuanM6IDIxbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDY5bXMpmbcAAAAAAACrtwAAAAAAABQAAADinJMgQ29tcGlsZWQgaW4gODdtc6y3AAAAAAAA5rcAAAAAAAA6AAAAIEdFVCAvIDIwMCBpbiA2OW1zIChuZXh0LmpzOiAxOG1zLCBhcHBsaWNhdGlvbi1jb2RlOiA1MW1zKee3AAAAAAAA+bcAAAAAAAAUAAAA4pyTIENvbXBpbGVkIGluIDY4bXP6twAAAAAAADS4AAAAAAAAOgAAACBHRVQgLyAyMDAgaW4gNzRtcyAobmV4dC5qczogMTJtcywgYXBwbGljYXRpb24tY29kZTogNjNtcyk1uAAAAAAAAEi4AAAAAAAAAAAAAEi4AAAAAAAASbgAAAAAAAAAAAAASbgAAAAAAABJuAAAAAAAAAAAAAC3tgAAAAAAAAG3AAAAAAAASgAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDE1NzdtcyAobmV4dC5qczogNG1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxNTc0bXMpArcAAAAAAABKtwAAAAAAAEgAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAzOTdtcyAobmV4dC5qczogNm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAzOTFtcylLtwAAAAAAAF23AAAAAAAAFAAAAOKckyBDb21waWxlZCBpbiA3MW1zXrcAAAAAAACYtwAAAAAAADoAAAAgR0VUIC8gMjAwIGluIDkwbXMgKG5leHQuanM6IDIxbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDY5bXMpmbcAAAAAAACrtwAAAAAAABQAAADinJMgQ29tcGlsZWQgaW4gODdtc6y3AAAAAAAA5rcAAAAAAAA6AAAAIEdFVCAvIDIwMCBpbiA2OW1zIChuZXh0LmpzOiAxOG1zLCBhcHBsaWNhdGlvbi1jb2RlOiA1MW1zKee3AAAAAAAA+bcAAAAAAAAUAAAA4pyTIENvbXBpbGVkIGluIDY4bXP6twAAAAAAADS4AAAAAAAAOgAAACBHRVQgLyAyMDAgaW4gNzRtcyAobmV4dC5qczogMTJtcywgYXBwbGljYXRpb24tY29kZTogNjNtcyk1uAAAAAAAAEi4AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiA4MjRtc0m4AAAAAAAAhbgAAAAAAAAAAAAAhbgAAAAAAACGuAAAAAAAAAAAAACGuAAAAAAAAIa4AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANbgAAAAAAAA1uAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					3,
+					"terminus_render",
+					null,
+					"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"
+				],
+				[
+					157,
+					2,
+					"terminus_render",
+					null,
+					"GAAAABO5AAAAAAAAVLkAAAAAAABBAAAAICAgIGF0IEJha2VyeVN0b3JlZnJvbnQgKGNvbXBvbmVudHMvYmFrZXJ5LXN0b3JlZnJvbnQudHN4OjEyNTo2MylVuQAAAAAAAHS5AAAAAAAAHwAAACAgICBhdCBQYWdlIChhcHAvcGFnZS50c3g6NDoxMCl1uQAAAAAAAHy5AAAAAAAABwAAACAgMTIzIHx9uQAAAAAAAP+5AAAAAAAAggAAACAgMTI0IHwgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9yZWZlcnJlciIgY2xhc3NOYW1lPSJ1bmRlcmxpbmUgdW5kZXJsaW5lLW9mZnNldC00Ij4AugAAAAAAAHq6AAAAAAAAewAAAD4gMTI1IHwgICAgICAgICAgICAgICA8c3BhbiBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3NOYW1lPSJ0ZXh0LWJhc2UiPjxGYUZhY2Vib29rLz48L3NwYW4+RmFjZWJvb2sgwrcgQnVubnkgQXBwbGUgVHJlYXRzPC9hPnu6AAAAAAAAwroAAAAAAABHAAAAICAgICAgfCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF7DugAAAAAAANu6AAAAAAAAGAAAACAgMTI2IHwgICAgICAgICAgIDwvZGl2Pty6AAAAAAAA8roAAAAAAAAWAAAAICAxMjcgfCAgICAgICAgIDwvZGl2PvO6AAAAAAAAC7sAAAAAAAAYAAAAICAxMjggfCAgICAgICA8L3NlY3Rpb24+DLsAAAAAAAAfuwAAAAAAAAAAAAAfuwAAAAAAACC7AAAAAAAAAAAAACC7AAAAAAAAILsAAAAAAAAAAAAAVbkAAAAAAAB0uQAAAAAAAB8AAAAgICAgYXQgUGFnZSAoYXBwL3BhZ2UudHN4OjQ6MTApdbkAAAAAAAB8uQAAAAAAAAcAAAAgIDEyMyB8fbkAAAAAAAD/uQAAAAAAAIIAAAAgIDEyNCB8ICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS8iIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vcmVmZXJyZXIiIGNsYXNzTmFtZT0idW5kZXJsaW5lIHVuZGVybGluZS1vZmZzZXQtNCI+ALoAAAAAAAB6ugAAAAAAAHsAAAA+IDEyNSB8ICAgICAgICAgICAgICAgPHNwYW4gYXJpYS1oaWRkZW49InRydWUiIGNsYXNzTmFtZT0idGV4dC1iYXNlIj48RmFGYWNlYm9vay8+PC9zcGFuPkZhY2Vib29rIMK3IEJ1bm55IEFwcGxlIFRyZWF0czwvYT57ugAAAAAAAMK6AAAAAAAARwAAACAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBew7oAAAAAAADbugAAAAAAABgAAAAgIDEyNiB8ICAgICAgICAgICA8L2Rpdj7cugAAAAAAAPK6AAAAAAAAFgAAACAgMTI3IHwgICAgICAgICA8L2Rpdj7zugAAAAAAAAu7AAAAAAAAGAAAACAgMTI4IHwgICAgICAgPC9zZWN0aW9uPgy7AAAAAAAAH7sAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDM0Mm1zILsAAAAAAABcuwAAAAAAAAAAAABcuwAAAAAAAF27AAAAAAAAAAAAAF27AAAAAAAAXbsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADLsAAAAAAAAMuwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					158,
+					2,
+					"terminus_render",
+					null,
+					"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"
+				],
+				[
+					159,
+					2,
+					"terminus_render",
+					null,
+					"GAAAAAC6AAAAAAAAeroAAAAAAAB7AAAAPiAxMjUgfCAgICAgICAgICAgICAgIDxzcGFuIGFyaWEtaGlkZGVuPSJ0cnVlIiBjbGFzc05hbWU9InRleHQtYmFzZSI+PEZhRmFjZWJvb2svPjwvc3Bhbj5GYWNlYm9vayDCtyBCdW5ueSBBcHBsZSBUcmVhdHM8L2E+e7oAAAAAAADCugAAAAAAAEcAAAAgICAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXsO6AAAAAAAA27oAAAAAAAAYAAAAICAxMjYgfCAgICAgICAgICAgPC9kaXY+3LoAAAAAAADyugAAAAAAABYAAAAgIDEyNyB8ICAgICAgICAgPC9kaXY+87oAAAAAAAALuwAAAAAAABgAAAAgIDEyOCB8ICAgICAgIDwvc2VjdGlvbj4MuwAAAAAAAB+7AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAzNDJtcyC7AAAAAAAAXLsAAAAAAAA8AAAAIEdFVCAvIDIwMCBpbiAyMDltcyAobmV4dC5qczogMzFtcywgYXBwbGljYXRpb24tY29kZTogMTc4bXMpXbsAAAAAAACouwAAAAAAAEsAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAxODc4bXMgKG5leHQuanM6IDQ2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDE4MzJtcympuwAAAAAAAPO7AAAAAAAASgAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDc4N21zIChuZXh0LmpzOiAxNzFtcywgYXBwbGljYXRpb24tY29kZTogNjE2bXMp9LsAAAAAAAAHvAAAAAAAAAAAAAAHvAAAAAAAAAi8AAAAAAAAAAAAAAi8AAAAAAAACLwAAAAAAAAAAAAAe7oAAAAAAADCugAAAAAAAEcAAAAgICAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXsO6AAAAAAAA27oAAAAAAAAYAAAAICAxMjYgfCAgICAgICAgICAgPC9kaXY+3LoAAAAAAADyugAAAAAAABYAAAAgIDEyNyB8ICAgICAgICAgPC9kaXY+87oAAAAAAAALuwAAAAAAABgAAAAgIDEyOCB8ICAgICAgIDwvc2VjdGlvbj4MuwAAAAAAAB+7AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAzNDJtcyC7AAAAAAAAXLsAAAAAAAA8AAAAIEdFVCAvIDIwMCBpbiAyMDltcyAobmV4dC5qczogMzFtcywgYXBwbGljYXRpb24tY29kZTogMTc4bXMpXbsAAAAAAACouwAAAAAAAEsAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAxODc4bXMgKG5leHQuanM6IDQ2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDE4MzJtcympuwAAAAAAAPO7AAAAAAAASgAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDc4N21zIChuZXh0LmpzOiAxNzFtcywgYXBwbGljYXRpb24tY29kZTogNjE2bXMp9LsAAAAAAAAHvAAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMjU0bXMIvAAAAAAAAES8AAAAAAAAAAAAAES8AAAAAAAARbwAAAAAAAAAAAAARbwAAAAAAABFvAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9LsAAAAAAAD0uwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					2,
+					"terminus_render",
+					null,
+					"GAAAAMO6AAAAAAAA27oAAAAAAAAYAAAAICAxMjYgfCAgICAgICAgICAgPC9kaXY+3LoAAAAAAADyugAAAAAAABYAAAAgIDEyNyB8ICAgICAgICAgPC9kaXY+87oAAAAAAAALuwAAAAAAABgAAAAgIDEyOCB8ICAgICAgIDwvc2VjdGlvbj4MuwAAAAAAAB+7AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAzNDJtcyC7AAAAAAAAXLsAAAAAAAA8AAAAIEdFVCAvIDIwMCBpbiAyMDltcyAobmV4dC5qczogMzFtcywgYXBwbGljYXRpb24tY29kZTogMTc4bXMpXbsAAAAAAACouwAAAAAAAEsAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAxODc4bXMgKG5leHQuanM6IDQ2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDE4MzJtcympuwAAAAAAAPO7AAAAAAAASgAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDc4N21zIChuZXh0LmpzOiAxNzFtcywgYXBwbGljYXRpb24tY29kZTogNjE2bXMp9LsAAAAAAAAHvAAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMjU0bXMIvAAAAAAAAES8AAAAAAAAPAAAACBHRVQgLyAyMDAgaW4gMTUwbXMgKG5leHQuanM6IDQ3bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDEwM21zKUW8AAAAAAAAWLwAAAAAAAAAAAAAWLwAAAAAAABZvAAAAAAAAAAAAABZvAAAAAAAAFm8AAAAAAAAAAAAANy6AAAAAAAA8roAAAAAAAAWAAAAICAxMjcgfCAgICAgICAgIDwvZGl2PvO6AAAAAAAAC7sAAAAAAAAYAAAAICAxMjggfCAgICAgICA8L3NlY3Rpb24+DLsAAAAAAAAfuwAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMzQybXMguwAAAAAAAFy7AAAAAAAAPAAAACBHRVQgLyAyMDAgaW4gMjA5bXMgKG5leHQuanM6IDMxbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDE3OG1zKV27AAAAAAAAqLsAAAAAAABLAAAAIEdFVCAvYXBpL2NhdGFsb2d1ZSAyMDAgaW4gMTg3OG1zIChuZXh0LmpzOiA0Nm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxODMybXMpqbsAAAAAAADzuwAAAAAAAEoAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiA3ODdtcyAobmV4dC5qczogMTcxbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDYxNm1zKfS7AAAAAAAAB7wAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDI1NG1zCLwAAAAAAABEvAAAAAAAADwAAAAgR0VUIC8gMjAwIGluIDE1MG1zIChuZXh0LmpzOiA0N21zLCBhcHBsaWNhdGlvbi1jb2RlOiAxMDNtcylFvAAAAAAAAFi8AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAyMDltc1m8AAAAAAAAlLwAAAAAAAAAAAAAlLwAAAAAAACVvAAAAAAAAAAAAACVvAAAAAAAAJW8AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARbwAAAAAAABFvAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					161,
+					2,
+					"terminus_render",
+					null,
+					"GAAAAPO6AAAAAAAAC7sAAAAAAAAYAAAAICAxMjggfCAgICAgICA8L3NlY3Rpb24+DLsAAAAAAAAfuwAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMzQybXMguwAAAAAAAFy7AAAAAAAAPAAAACBHRVQgLyAyMDAgaW4gMjA5bXMgKG5leHQuanM6IDMxbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDE3OG1zKV27AAAAAAAAqLsAAAAAAABLAAAAIEdFVCAvYXBpL2NhdGFsb2d1ZSAyMDAgaW4gMTg3OG1zIChuZXh0LmpzOiA0Nm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxODMybXMpqbsAAAAAAADzuwAAAAAAAEoAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiA3ODdtcyAobmV4dC5qczogMTcxbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDYxNm1zKfS7AAAAAAAAB7wAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDI1NG1zCLwAAAAAAABEvAAAAAAAADwAAAAgR0VUIC8gMjAwIGluIDE1MG1zIChuZXh0LmpzOiA0N21zLCBhcHBsaWNhdGlvbi1jb2RlOiAxMDNtcylFvAAAAAAAAFi8AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAyMDltc1m8AAAAAAAAlLwAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxMzRtcyAobmV4dC5qczogNTBtcywgYXBwbGljYXRpb24tY29kZTogODRtcymVvAAAAAAAAKi8AAAAAAAAAAAAAKi8AAAAAAAAqbwAAAAAAAAAAAAAqbwAAAAAAACpvAAAAAAAAAAAAAAMuwAAAAAAAB+7AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAzNDJtcyC7AAAAAAAAXLsAAAAAAAA8AAAAIEdFVCAvIDIwMCBpbiAyMDltcyAobmV4dC5qczogMzFtcywgYXBwbGljYXRpb24tY29kZTogMTc4bXMpXbsAAAAAAACouwAAAAAAAEsAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAxODc4bXMgKG5leHQuanM6IDQ2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDE4MzJtcympuwAAAAAAAPO7AAAAAAAASgAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDc4N21zIChuZXh0LmpzOiAxNzFtcywgYXBwbGljYXRpb24tY29kZTogNjE2bXMp9LsAAAAAAAAHvAAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMjU0bXMIvAAAAAAAAES8AAAAAAAAPAAAACBHRVQgLyAyMDAgaW4gMTUwbXMgKG5leHQuanM6IDQ3bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDEwM21zKUW8AAAAAAAAWLwAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDIwOW1zWbwAAAAAAACUvAAAAAAAADsAAAAgR0VUIC8gMjAwIGluIDEzNG1zIChuZXh0LmpzOiA1MG1zLCBhcHBsaWNhdGlvbi1jb2RlOiA4NG1zKZW8AAAAAAAAqLwAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDE3N21zqbwAAAAAAADkvAAAAAAAAAAAAADkvAAAAAAAAOW8AAAAAAAAAAAAAOW8AAAAAAAA5bwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlbwAAAAAAACVvAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					162,
+					2,
+					"terminus_render",
+					null,
+					"GAAAACC7AAAAAAAAXLsAAAAAAAA8AAAAIEdFVCAvIDIwMCBpbiAyMDltcyAobmV4dC5qczogMzFtcywgYXBwbGljYXRpb24tY29kZTogMTc4bXMpXbsAAAAAAACouwAAAAAAAEsAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiAxODc4bXMgKG5leHQuanM6IDQ2bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDE4MzJtcympuwAAAAAAAPO7AAAAAAAASgAAACBHRVQgL2FwaS9jYXRhbG9ndWUgMjAwIGluIDc4N21zIChuZXh0LmpzOiAxNzFtcywgYXBwbGljYXRpb24tY29kZTogNjE2bXMp9LsAAAAAAAAHvAAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMjU0bXMIvAAAAAAAAES8AAAAAAAAPAAAACBHRVQgLyAyMDAgaW4gMTUwbXMgKG5leHQuanM6IDQ3bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDEwM21zKUW8AAAAAAAAWLwAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDIwOW1zWbwAAAAAAACUvAAAAAAAADsAAAAgR0VUIC8gMjAwIGluIDEzNG1zIChuZXh0LmpzOiA1MG1zLCBhcHBsaWNhdGlvbi1jb2RlOiA4NG1zKZW8AAAAAAAAqLwAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDE3N21zqbwAAAAAAADkvAAAAAAAADsAAAAgR0VUIC8gMjAwIGluIDEyN21zIChuZXh0LmpzOiA1NW1zLCBhcHBsaWNhdGlvbi1jb2RlOiA3Mm1zKeW8AAAAAAAA+LwAAAAAAAAAAAAA+LwAAAAAAAD5vAAAAAAAAAAAAAD5vAAAAAAAAPm8AAAAAAAAAAAAAF27AAAAAAAAqLsAAAAAAABLAAAAIEdFVCAvYXBpL2NhdGFsb2d1ZSAyMDAgaW4gMTg3OG1zIChuZXh0LmpzOiA0Nm1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxODMybXMpqbsAAAAAAADzuwAAAAAAAEoAAAAgR0VUIC9hcGkvY2F0YWxvZ3VlIDIwMCBpbiA3ODdtcyAobmV4dC5qczogMTcxbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDYxNm1zKfS7AAAAAAAAB7wAAAAAAAAVAAAA4pyTIENvbXBpbGVkIGluIDI1NG1zCLwAAAAAAABEvAAAAAAAADwAAAAgR0VUIC8gMjAwIGluIDE1MG1zIChuZXh0LmpzOiA0N21zLCBhcHBsaWNhdGlvbi1jb2RlOiAxMDNtcylFvAAAAAAAAFi8AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAyMDltc1m8AAAAAAAAlLwAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxMzRtcyAobmV4dC5qczogNTBtcywgYXBwbGljYXRpb24tY29kZTogODRtcymVvAAAAAAAAKi8AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAxNzdtc6m8AAAAAAAA5LwAAAAAAAA7AAAAIEdFVCAvIDIwMCBpbiAxMjdtcyAobmV4dC5qczogNTVtcywgYXBwbGljYXRpb24tY29kZTogNzJtcynlvAAAAAAAAPi8AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAzMjNtc/m8AAAAAAAANr0AAAAAAAAAAAAANr0AAAAAAAA3vQAAAAAAAAAAAAA3vQAAAAAAADe9AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5bwAAAAAAADlvAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					163,
+					2,
+					"terminus_render",
+					null,
+					"GAAAAKm7AAAAAAAA87sAAAAAAABKAAAAIEdFVCAvYXBpL2NhdGFsb2d1ZSAyMDAgaW4gNzg3bXMgKG5leHQuanM6IDE3MW1zLCBhcHBsaWNhdGlvbi1jb2RlOiA2MTZtcyn0uwAAAAAAAAe8AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAyNTRtcwi8AAAAAAAARLwAAAAAAAA8AAAAIEdFVCAvIDIwMCBpbiAxNTBtcyAobmV4dC5qczogNDdtcywgYXBwbGljYXRpb24tY29kZTogMTAzbXMpRbwAAAAAAABYvAAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMjA5bXNZvAAAAAAAAJS8AAAAAAAAOwAAACBHRVQgLyAyMDAgaW4gMTM0bXMgKG5leHQuanM6IDUwbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDg0bXMplbwAAAAAAACovAAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMTc3bXOpvAAAAAAAAOS8AAAAAAAAOwAAACBHRVQgLyAyMDAgaW4gMTI3bXMgKG5leHQuanM6IDU1bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDcybXMp5bwAAAAAAAD4vAAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMzIzbXP5vAAAAAAAADa9AAAAAAAAPQAAACBHRVQgLyAyMDAgaW4gMjMybXMgKG5leHQuanM6IDExNW1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxMTdtcyk3vQAAAAAAAEq9AAAAAAAAAAAAAEq9AAAAAAAAS70AAAAAAAAAAAAAS70AAAAAAABLvQAAAAAAAAAAAAD0uwAAAAAAAAe8AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAyNTRtcwi8AAAAAAAARLwAAAAAAAA8AAAAIEdFVCAvIDIwMCBpbiAxNTBtcyAobmV4dC5qczogNDdtcywgYXBwbGljYXRpb24tY29kZTogMTAzbXMpRbwAAAAAAABYvAAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMjA5bXNZvAAAAAAAAJS8AAAAAAAAOwAAACBHRVQgLyAyMDAgaW4gMTM0bXMgKG5leHQuanM6IDUwbXMsIGFwcGxpY2F0aW9uLWNvZGU6IDg0bXMplbwAAAAAAACovAAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMTc3bXOpvAAAAAAAAOS8AAAAAAAAOwAAACBHRVQgLyAyMDAgaW4gMTI3bXMgKG5leHQuanM6IDU1bXMsIGFwcGxpY2F0aW9uLWNvZGU6IDcybXMp5bwAAAAAAAD4vAAAAAAAABUAAADinJMgQ29tcGlsZWQgaW4gMzIzbXP5vAAAAAAAADa9AAAAAAAAPQAAACBHRVQgLyAyMDAgaW4gMjMybXMgKG5leHQuanM6IDExNW1zLCBhcHBsaWNhdGlvbi1jb2RlOiAxMTdtcyk3vQAAAAAAAEq9AAAAAAAAFQAAAOKckyBDb21waWxlZCBpbiAxMjVtc0u9AAAAAAAAhr0AAAAAAAAAAAAAhr0AAAAAAACHvQAAAAAAAAAAAACHvQAAAAAAAIe9AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAN70AAAAAAAA3vQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "                                                                            \n  Welcome to Bazzite 󰊴                                                      \n                                                                            \n  󱋩  bazzite-asus:stable                                                    \n                                                                            \n    Command                          │ Description                         \n  ────────────────────────────────────┼───────────────────────────────────  \n    ujust                             │ List all available commands         \n    ujust toggle-user-motd            │ Toggle this banner on/off           \n    ujust changelog                   │ View changelog                      \n    fastfetch                         │ View system information             \n                                                                            \n  󰋼 It is always better to install packages with Distrobox rather than layer\n  them with rpm-ostree.  ujust distrobox  makes it easy!                    \n  More info                                                                 \n  https://docs.bazzite.gg/Installing_and_Managing_Software/Distrobox/       \n                                                                            \n  •  Report an issue https://github.com/ublue-os/bazzite/issues            \n  • 󰈙 Documentation http://docs.bazzite.gg/                                 \n  • 󰙯 Discord https://discord.bazzite.gg/                                   \n  • 󰫑 Mastodon https://fosstodon.org/@UniversalBlue                         \n  •  Bluesky https://bsky.app/profile/bazzite.gg                           \nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ npm install lucide-react\nnpm error Cannot read properties of null (reading 'edgesOut')                                                                                                                        \nnpm notice                                                                                                                                                                           \nnpm notice New minor version of npm available! 11.4.2 -> 11.19.1\nnpm notice Changelog: https://github.com/npm/cli/releases/tag/v11.19.1\nnpm notice To update run: npm install -g npm@11.19.1\nnpm notice\nnpm error A complete log of this run can be found in: /home/moloitk/.npm/_logs/2026-09-06T15_41_56_113Z-debug-0.log                                                                  \nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm install lucide-react                                                                                     \n\n   ╭──────────────────────────────────────────────╮\n   │                                              │\n   │     Update available! 10.20.0 → 12.3.4.      │\n   │     Changelog: https://pnpm.io/v/12.3.4      │\n   │   To update, run: corepack use pnpm@12.3.4   │\n   │                                              │\n   ╰──────────────────────────────────────────────╯\n\n WARN  1 deprecated subdependencies found: node-domexception@1.0.0\nPackages: +5                                                                                                                                                                         \n+++++                                                                                                                                                                                \nDownloading @img/sharp-libvips-linuxmusl-x64@1.3.2: 8,15 MB/8,15 MB, done                                                                                                            \nDownloading @next/swc-linux-x64-musl@16.3.0: 33,22 MB/33,22 MB, done                                                                                                                 \nProgress: resolved 483, reused 430, downloaded 7, added 5, done                                                                                                                      \n\n╭ Warning ───────────────────────────────────────────────────────────────────────────────────╮\n│                                                                                            │\n│   Ignored build scripts: msw.                                                              │\n│   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   │\n│                                                                                            │\n╰────────────────────────────────────────────────────────────────────────────────────────────╯\n\nDone in 17.2s using pnpm v10.20.0\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm install react icons\n WARN  deprecated icons@1.0.0: Package no longer supported. Contact support@npmjs.com for more info.\n WARN  1 deprecated subdependencies found: node-domexception@1.0.0\nPackages: +1                                                                                                                                                                         \n+\nProgress: resolved 484, reused 436, downloaded 1, added 1, done\n\ndependencies:\n+ icons 1.0.0 deprecated\n\n╭ Warning ───────────────────────────────────────────────────────────────────────────────────╮\n│                                                                                            │\n│   Ignored build scripts: msw.                                                              │\n│   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   │\n│                                                                                            │\n╰───────────────────────────────────────────────────────────────────────────────────────────╯\n\nDone in 4.1s using pnpm v10.20.0\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ npm install @fortawesome/fontawesome-svg-core @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icon​‌​\ns @fortawesome/free-solid-svg-icons                                                                                                                                                  \np                                                                                                                                                                                    \n⠴^C                                                                                                                                                                                  \nbash: p: command not found\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm install @fortawesome/fontawesome-svg-core @fortawesome/react-fontawesome @fortawesome/free-brands-svg-ico​‌​\nns @fortawesome/free-solid-svg-icons\n WARN  deprecated icons@1.0.0: Package no longer supported. Contact support@npmjs.com for more info.\n WARN  1 deprecated subdependencies found: node-domexception@1.0.0\nAlready up to date                                                                                                                                                                   \nProgress: resolved 484, reused 437, downloaded 0, added 0, done\nDone in 3.7s using pnpm v10.20.0\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm install react-icons                                                                                      \n WARN  deprecated icons@1.0.0: Package no longer supported. Contact support@npmjs.com for more info.\n WARN  1 deprecated subdependencies found: node-domexception@1.0.0\nPackages: +1                                                                                                                                                                         \n+                                                                                                                                                                                    \nDownloading react-icons@5.7.0: 22,77 MB/22,77 MB, done                                                                                                                               \nProgress: resolved 485, reused 438, downloaded 1, added 1, done\n\ndependencies:\n+ react-icons 5.7.0\n\nDone in 7.9s using pnpm v10.20.0\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm store prune\nRemoved all cached metadata files\nRemoved 109172 files\nRemoved 1346 packages\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm list --depth=0\nLegend: production dependency, optional only, dev only\n\nmy-project@0.1.0 /var/home/moloitk/Documents/GitHub/bunny-apple-treats (PRIVATE)\n\ndependencies:\n@base-ui/react 1.5.0                      @vercel/analytics 1.6.1                   icons 1.0.0                               react-dom 19.2.4                          \n@fortawesome/fontawesome-svg-core 7.3.1   @vercel/blob 2.8.0                        lucide-react 1.17.0                       react-icons 5.7.0                         \n@fortawesome/free-brands-svg-icons 7.3.1  class-variance-authority 0.7.1            next 16.3.0                               shadcn 4.10.0                             \n@fortawesome/free-solid-svg-icons 7.3.1   clsx 2.1.1                                pg 8.23.0                                 tailwind-merge 3.4.0                      \n@fortawesome/react-fontawesome 3.5.0      drizzle-orm 0.45.2                        react 19.2.4                              tw-animate-css 1.4.0                      \n\ndevDependencies:\n@tailwindcss/postcss 4.3.3\n@types/node 24.10.4\n@types/pg 8.23.1\n@types/react 19.2.14\n@types/react-dom 19.2.3\npostcss 8.5.6\ntailwindcss 4.3.3\ntypescript 5.7.3\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ ",
+			"settings":
+			{
+				"buffer_size": 9779,
+				"line_ending": "Unix",
+				"name": "moloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					544,
+					1,
+					"terminus_render",
+					null,
+					"DAAAABIgAAAAAAAAEiAAAAAAAAAAAAAAEyAAAAAAAAAgIAAAAAAAAA0AAABkZXBlbmRlbmNpZXM6ISAAAAAAAAA0IAAAAAAAABMAAAArIHJlYWN0LWljb25zIDUuNy4wNSAAAAAAAAA1IAAAAAAAAAAAAAA2IAAAAAAAAFYgAAAAAAAAIAAAAERvbmUgaW4gNy45cyB1c2luZyBwbnBtIHYxMC4yMC4wVyAAAAAAAACuIAAAAAAAAFcAAABtb2xvaXRrQGJhenppdGU6L3Zhci9ob21lL21vbG9pdGsvRG9jdW1lbnRzL0dpdEh1Yi9idW5ueS1hcHBsZS10cmVhdHMkIHBucG0gc3RvcmUgcHJ1bmWvIAAAAAAAANAgAAAAAAAAIQAAAFJlbW92ZWQgYWxsIGNhY2hlZCBtZXRhZGF0YSBmaWxlc9EgAAAAAAAA5SAAAAAAAAAUAAAAUmVtb3ZlZCAxMDkxNzIgZmlsZXPmIAAAAAAAAPsgAAAAAAAAFQAAAFJlbW92ZWQgMTM0NiBwYWNrYWdlc/wgAAAAAAAAViEAAAAAAABHAAAAbW9sb2l0a0BiYXp6aXRlOi92YXIvaG9tZS9tb2xvaXRrL0RvY3VtZW50cy9HaXRIdWIvYnVubnktYXBwbGUtdHJlYXRzJCBWIQAAAAAAAFchAAAAAAAAAAAAAFchAAAAAAAAVyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQyEAAAAAAABDIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					545,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFchAAAAAAAAWCEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVyEAAAAAAABXIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					547,
+					3,
+					"terminus_render",
+					null,
+					"MgAAAPwgAAAAAAAAViEAAAAAAABaAAAAbW9sb2l0a0BiYXp6aXRlOi92YXIvaG9tZS9tb2xvaXRrL0RvY3VtZW50cy9HaXRIdWIvYnVubnktYXBwbGUtdHJlYXRzJCBwbnBtIGxpc3QgLS1kZXB0aD0wVyEAAAAAAABXIQAAAAAAAAEAAAAKVyEAAAAAAABhIQAAAAAAAAAAAABhIQAAAAAAAGEhAAAAAAAAAAAAAGAhAAAAAAAA8iEAAAAAAAAAAAAA8iEAAAAAAAAIIgAAAAAAAAAAAABfIQAAAAAAAPEhAAAAAAAAAAAAAPEhAAAAAAAAByIAAAAAAAAAAAAAXiEAAAAAAADpIQAAAAAAAAAAAADpIQAAAAAAAAYiAAAAAAAAAAAAAF0hAAAAAAAA7CEAAAAAAAAAAAAA7CEAAAAAAAAFIgAAAAAAAAAAAABcIQAAAAAAAOohAAAAAAAAAAAAAOohAAAAAAAABCIAAAAAAAAAAAAAWyEAAAAAAABoIQAAAAAAAAAAAABaIQAAAAAAAFohAAAAAAAAAAAAAFkhAAAAAAAAqSEAAAAAAAAAAAAAWCEAAAAAAABYIQAAAAAAAAAAAABXIQAAAAAAAI0hAAAAAAAAAAAAAPwgAAAAAAAAViEAAAAAAABaAAAAbW9sb2l0a0BiYXp6aXRlOi92YXIvaG9tZS9tb2xvaXRrL0RvY3VtZW50cy9HaXRIdWIvYnVubnktYXBwbGUtdHJlYXRzJCBwbnBtIGxpc3QgLS1kZXB0aD0w5iAAAAAAAAD7IAAAAAAAABUAAABSZW1vdmVkIDEzNDYgcGFja2FnZXPRIAAAAAAAAOUgAAAAAAAAFAAAAFJlbW92ZWQgMTA5MTcyIGZpbGVzryAAAAAAAADQIAAAAAAAACEAAABSZW1vdmVkIGFsbCBjYWNoZWQgbWV0YWRhdGEgZmlsZXNXIAAAAAAAAK4gAAAAAAAAVwAAAG1vbG9pdGtAYmF6eml0ZTovdmFyL2hvbWUvbW9sb2l0ay9Eb2N1bWVudHMvR2l0SHViL2J1bm55LWFwcGxlLXRyZWF0cyQgcG5wbSBzdG9yZSBwcnVuZTYgAAAAAAAAViAAAAAAAAAgAAAARG9uZSBpbiA3LjlzIHVzaW5nIHBucG0gdjEwLjIwLjA1IAAAAAAAADUgAAAAAAAAAAAAACEgAAAAAAAANCAAAAAAAAATAAAAKyByZWFjdC1pY29ucyA1LjcuMBMgAAAAAAAAICAAAAAAAAANAAAAZGVwZW5kZW5jaWVzOjwlAAAAAAAAPSUAAAAAAAAAAAAAPSUAAAAAAABNJQAAAAAAAAAAAABNJQAAAAAAAE4lAAAAAAAAAAAAAE4lAAAAAAAAaCUAAAAAAAAAAAAAaCUAAAAAAABpJQAAAAAAAAAAAABpJQAAAAAAAHwlAAAAAAAAAAAAAHwlAAAAAAAAfSUAAAAAAAAAAAAAfSUAAAAAAACNJQAAAAAAAAAAAACNJQAAAAAAAI4lAAAAAAAAAAAAAI4lAAAAAAAAoiUAAAAAAAAAAAAAoiUAAAAAAACjJQAAAAAAAAAAAACjJQAAAAAAALolAAAAAAAAAAAAALolAAAAAAAAuyUAAAAAAAAAAAAAuyUAAAAAAADIJQAAAAAAAAAAAADIJQAAAAAAAMklAAAAAAAAAAAAAMklAAAAAAAA2iUAAAAAAAAAAAAA2iUAAAAAAADbJQAAAAAAAAAAAADbJQAAAAAAAOslAAAAAAAAAAAAAOslAAAAAAAA7CUAAAAAAAAAAAAA7CUAAAAAAADsJQAAAAAAAAAAAADsJQAAAAAAADImAAAAAAAAAAAAADImAAAAAAAAMyYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVyEAAAAAAABXIQAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		}
 	],
 	"build_system": "",
@@ -423,6 +1191,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"termi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
 			[
 				"terminus",
 				"Terminus: Open Default Shell in Tab (View)"
@@ -504,10 +1276,16 @@
 	},
 	"expanded_folders":
 	[
-		"/home/moloitk/Documents/GitHub/bunny-apple-treats"
+		"/home/moloitk/Documents/GitHub/bunny-apple-treats",
+		"/home/moloitk/Documents/GitHub/bunny-apple-treats/app",
+		"/home/moloitk/Documents/GitHub/bunny-apple-treats/components"
 	],
 	"file_history":
 	[
+		"/home/moloitk/Documents/GitHub/bunny-apple-treats/app/admin/page.tsx",
+		"/home/moloitk/Documents/GitHub/bunny-apple-treats/app/api/admin/session/route.ts",
+		"/home/moloitk/Documents/GitHub/bunny-apple-treats/.env.local",
+		"/home/moloitk/Documents/GitHub/bunny-apple-treats/.gitignore",
 		"/home/moloitk/Documents/GitHub/bunny-apple-treats/next-env.d.ts",
 		"/home/moloitk/Documents/GitHub/enactus-ufsq/context/data-context.tsx",
 		"/home/moloitk/Documents/GitHub/birthday-memory-board/components/birthday-experience.tsx",
@@ -574,7 +1352,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -588,6 +1366,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"whatsapp"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -611,11 +1390,11 @@
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
+					"file": "app/page.tsx",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 209,
+						"buffer_size": 128,
 						"regions":
 						{
 						},
@@ -713,17 +1492,19 @@
 									}
 								],
 								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
-								"current_ext": "",
-								"current_syntax": "Git Formats/Git Ignore",
+								"current_ext": ".tsx",
+								"current_syntax": "JavaScript/TSX",
 								"enabled": true,
-								"last_updated": 1788198085.14,
+								"last_updated": 1788703693.25,
 								"scanning": "-comment"
 							},
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+							"syntax": "Packages/JavaScript/TSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 172.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -732,20 +1513,20 @@
 				},
 				{
 					"buffer": 1,
-					"file": ".env.local",
+					"file": "components/bakery-storefront.tsx",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 316,
+						"buffer_size": 17149,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								164
+								13218,
+								13218
 							]
 						],
 						"settings":
@@ -835,18 +1616,19 @@
 									}
 								],
 								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
-								"current_ext": ".local",
-								"current_syntax": "zzz A File Icon/aliases/Plain Text (Dot ENV)",
+								"current_ext": ".tsx",
+								"current_syntax": "JavaScript/TSX",
 								"enabled": true,
-								"last_updated": 1788198085.14,
+								"last_updated": 1788703693.25,
 								"scanning": "-comment"
 							},
 							"git_gutter_is_enabled": true,
-							"open_with_edit": true,
-							"syntax": "Packages/zzz A File Icon/aliases/Plain Text (Dot ENV).sublime-syntax"
+							"syntax": "Packages/JavaScript/TSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2561.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -864,15 +1646,185 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23257,
+						"buffer_size": 48519,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23257,
-								23257
+								48519,
+								48519
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.refresh": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/home/moloitk/Documents/GitHub/bunny-apple-treats",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "/home/moloitk/Documents/GitHub/bunny-apple-treats",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Terminus View.sublime-syntax",
+							"terminus.highlight_counter": 2226,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"cwd": "/home/moloitk/Documents/GitHub/bunny-apple-treats",
+								"default_title": "Login Shell",
+								"env":
+								{
+									"LANG": "en_ZA.UTF-8",
+									"PROMPT_TOOLKIT_COLOR_DEPTH": "DEPTH_8_BIT",
+									"TERM": "xterm-256color",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null,
+								"view_settings":
+								{
+								}
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 21432.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 21432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9779,
+								9779
 							]
 						],
 						"settings":
@@ -972,11 +1924,11 @@
 								"current_ext": null,
 								"current_syntax": "Terminus View",
 								"enabled": true,
-								"last_updated": 1788198085.14,
+								"last_updated": 1788703693.25,
 								"scanning": "-comment"
 							},
 							"color_scheme": "Terminus.hidden-color-scheme",
-							"default_dir": "/home/moloitk/Documents/GitHub/bunny-apple-treats",
+							"default_dir": "/home/moloitk/Documents/GitHub/bunny-apple-treats/components",
 							"draw_centered": false,
 							"draw_indent_guides": false,
 							"draw_unicode_white_space": false,
@@ -994,7 +1946,7 @@
 							],
 							"scroll_past_end": true,
 							"syntax": "Terminus View.sublime-syntax",
-							"terminus.highlight_counter": 1338,
+							"terminus.highlight_counter": 928,
 							"terminus_view": true,
 							"terminus_view.args":
 							{
@@ -1034,14 +1986,14 @@
 							"terminus_view.natural_keyboard": true,
 							"terminus_view.reactivable": true,
 							"terminus_view.tag": null,
-							"terminus_view.viewport_y": 10830.0,
+							"terminus_view.viewport_y": 2147.0,
 							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 10830.0,
+						"translation.y": 2234.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
