@@ -59,6 +59,358 @@
 	},
 	"buffers":
 	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env.local",
+			"settings":
+			{
+				"buffer_size": 316,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"insert",
+					{
+						"characters": "DATAB"
+					},
+					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "ASR"
+					},
+					"AwAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAcAAAAAAAAABwAAAAAAAAABAAAAUg",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "E"
+					},
+					"AQAAAAcAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "URL"
+					},
+					"AwAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"",
+					null,
+					"AQAAAA0AAAAAAAAAowAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKMAAAAAAAAApAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "A"
+					},
+					"AQAAAKQAAAAAAAAApQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "DMIN"
+					},
+					"BAAAAKUAAAAAAAAApgAAAAAAAAAAAAAApgAAAAAAAACnAAAAAAAAAAAAAACnAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAAqQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "_Pa"
+					},
+					"AwAAAKkAAAAAAAAAqgAAAAAAAAAAAAAAqgAAAAAAAACrAAAAAAAAAAAAAACrAAAAAAAAAKwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKsAAAAAAAAAqwAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "ASSWORD"
+					},
+					"BwAAAKsAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACtAAAAAAAAAAAAAACtAAAAAAAAAK4AAAAAAAAAAAAAAK4AAAAAAAAArwAAAAAAAAAAAAAArwAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALEAAAAAAAAAAAAAALEAAAAAAAAAsgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAALIAAAAAAAAAswAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsgAAAAAAAACyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "W"
+					},
+					"AQAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "hipped"
+					},
+					"BgAAALQAAAAAAAAAtQAAAAAAAAAAAAAAtQAAAAAAAAC2AAAAAAAAAAAAAAC2AAAAAAAAALcAAAAAAAAAAAAAALcAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC5AAAAAAAAAAAAAAC5AAAAAAAAALoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "@"
+					},
+					"AQAAALoAAAAAAAAAuwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAugAAAAAAAAC6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "008"
+					},
+					"AwAAALsAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAAC9AAAAAAAAAAAAAAC9AAAAAAAAAL4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuwAAAAAAAAC7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAL4AAAAAAAAAvwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvgAAAAAAAAC+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "B"
+					},
+					"AQAAAL8AAAAAAAAAwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvwAAAAAAAAC/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "L"
+					},
+					"AQAAAMAAAAAAAAAAwQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "O"
+					},
+					"AQAAAMEAAAAAAAAAwgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQAAAAAAAADBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "B"
+					},
+					"AQAAAMIAAAAAAAAAwwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAMMAAAAAAAAAxAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwwAAAAAAAADDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "REA"
+					},
+					"AwAAAMQAAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADGAAAAAAAAAAAAAADGAAAAAAAAAMcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "D"
+					},
+					"AQAAAMcAAAAAAAAAyAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAMgAAAAAAAAAyQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "W"
+					},
+					"AQAAAMkAAAAAAAAAygAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyQAAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "R"
+					},
+					"AQAAAMoAAAAAAAAAywAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "ITE_TOKEN"
+					},
+					"CQAAAMsAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADNAAAAAAAAAAAAAADNAAAAAAAAAM4AAAAAAAAAAAAAAM4AAAAAAAAAzwAAAAAAAAAAAAAAzwAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANEAAAAAAAAAAAAAANEAAAAAAAAA0gAAAAAAAAAAAAAA0gAAAAAAAADTAAAAAAAAAAAAAADTAAAAAAAAANQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAANQAAAAAAAAA1QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AAAAAAAAADUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"",
+					null,
+					"AQAAAL8AAAAAAAAAPAEAAAAAAAAWAAAAQkxPQl9SRUFEX1dSSVRFX1RPS0VOPQ",
+					"AQAAAAAAAAABAAAA1QAAAAAAAAC/AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "                                                                            \n  Welcome to Bazzite 󰊴                                                      \n                                                                            \n  󱋩  bazzite-asus:stable                                                    \n                                                                            \n    Command                          │ Description                         \n  ────────────────────────────────────┼───────────────────────────────────  \n    ujust                             │ List all available commands         \n    ujust toggle-user-motd            │ Toggle this banner on/off           \n    ujust changelog                   │ View changelog                      \n    fastfetch                         │ View system information             \n                                                                            \n  󰋼 Want to control your device from your phone? The KDE Connect app        \n  functions with all Bazzite images                                         \n  More info https://kdeconnect.kde.org/                                     \n                                                                            \n  •  Report an issue https://github.com/ublue-os/bazzite/issues            \n  • 󰈙 Documentation http://docs.bazzite.gg/                                 \n  • 󰙯 Discord https://discord.bazzite.gg/                                   \n  • 󰫑 Mastodon https://fosstodon.org/@UniversalBlue                         \n  •  Bluesky https://bsky.app/profile/bazzite.gg                           \nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm dev install\n\n> my-project@0.1.0 dev /var/home/moloitk/Documents/GitHub/bunny-apple-treats\n> next dev install\n\nsh: line 1: next: command not found\n ELIFECYCLE  Command failed.\n WARN   Local package.json exists, but node_modules missing, did you mean to install?\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm install\nLockfile is up to date, resolution step is skipped\nPackages: +430                                                                                                                                                                       \n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n                                                                                                                                                                                     \n   ╭───────────────────────────────────────────────╮\n   │                                               │\n   │     Update available! 10.20.0 → 11.24.0.      │\n   │     Changelog: https://pnpm.io/v/11.24.0      │\n   │   To update, run: corepack use pnpm@11.24.0   │\n   │                                               │\n   ╰───────────────────────────────────────────────╯\n\nDownloading @img/sharp-libvips-linux-x64@1.3.2: 8,11 MB/8,11 MB, done\nDownloading @next/swc-linux-x64-gnu@16.3.0: 33,76 MB/33,76 MB, done                                                                                                                  \nDownloading next@16.3.0: 41,54 MB/41,54 MB, done                                                                                                                                     \nProgress: resolved 430, reused 393, downloaded 37, added 430, done                                                                                                                   \n\ndependencies:\n+ @base-ui/react 1.5.0\n+ @fortawesome/fontawesome-svg-core 7.3.1\n+ @fortawesome/free-brands-svg-icons 7.3.1\n+ @fortawesome/free-solid-svg-icons 7.3.1\n+ @fortawesome/react-fontawesome 3.5.0\n+ @vercel/analytics 1.6.1\n+ @vercel/blob 2.8.0\n+ class-variance-authority 0.7.1\n+ clsx 2.1.1\n+ drizzle-orm 0.45.2\n+ lucide-react 1.17.0\n+ next 16.3.0\n+ pg 8.23.0\n+ react 19.2.4\n+ react-dom 19.2.4\n+ shadcn 4.10.0\n+ tailwind-merge 3.4.0\n+ tw-animate-css 1.4.0\n\ndevDependencies:\n+ @tailwindcss/postcss 4.3.3\n+ @types/node 24.10.4\n+ @types/pg 8.23.1\n+ @types/react 19.2.14\n+ @types/react-dom 19.2.3\n+ postcss 8.5.6\n+ tailwindcss 4.3.3\n+ typescript 5.7.3\n\n╭ Warning ───────────────────────────────────────────────────────────────────────────────────╮\n│                                                                                            │\n│   Ignored build scripts: msw.                                                              │\n│   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   │\n│                                                                                            │\n╰───────────────────────────────────────────────────────────────────────────────────────────╯\n\nDone in 22.7s using pnpm v10.20.0\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm dev\n\n> my-project@0.1.0 dev /var/home/moloitk/Documents/GitHub/bunny-apple-treats\n> next dev\n\n▲ Next.js 16.3.0 (Turbopack)\n- Local:         http://localhost:3000\n- Network:       http://192.168.68.110:3000\n✓ Ready in 604ms\n✓ Running next.config.mjs took 30ms\n\n○ Compiling / ...\n GET / 200 in 8.4s (next.js: 8.0s, application-code: 328ms)\n⨯ error: database \"moloitk\" does not exist\n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  length: 93,\n  severity: 'FATAL',\n  code: '3D000',\n  detail: undefined,\n  hint: undefined,\n  position: undefined,\n  internalPosition: undefined,\n  internalQuery: undefined,\n  where: undefined,\n  schema: undefined,\n  table: undefined,\n  column: undefined,\n  dataType: undefined,\n  constraint: undefined,\n  file: 'postinit.c',\n  line: '1021',\n  routine: 'InitPostgres'\n}\n GET /api/catalogue 500 in 750ms (next.js: 370ms, application-code: 380ms)\n⨯ error: database \"moloitk\" does not exist\n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  length: 93,\n  severity: 'FATAL',\n  code: '3D000',\n  detail: undefined,\n  hint: undefined,\n  position: undefined,\n  internalPosition: undefined,\n  internalQuery: undefined,\n  where: undefined,\n  schema: undefined,\n  table: undefined,\n  column: undefined,\n  dataType: undefined,\n  constraint: undefined,\n  file: 'postinit.c',\n  line: '1021',\n  routine: 'InitPostgres'\n}\n GET /api/catalogue 500 in 22ms (next.js: 6ms, application-code: 16ms)\n GET /admin 200 in 1486ms (next.js: 1351ms, application-code: 135ms)\n⨯ error: database \"moloitk\" does not exist\n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  length: 93,\n  severity: 'FATAL',\n  code: '3D000',\n  detail: undefined,\n  hint: undefined,\n  position: undefined,\n  internalPosition: undefined,\n  internalQuery: undefined,\n  where: undefined,\n  schema: undefined,\n  table: undefined,\n  column: undefined,\n  dataType: undefined,\n  constraint: undefined,\n  file: 'postinit.c',\n  line: '1021',\n  routine: 'InitPostgres'\n}\n GET /api/catalogue 500 in 40ms (next.js: 9ms, application-code: 31ms)\n⨯ error: database \"moloitk\" does not exist\n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  length: 93,\n  severity: 'FATAL',\n  code: '3D000',\n  detail: undefined,\n  hint: undefined,\n  position: undefined,\n  internalPosition: undefined,\n  internalQuery: undefined,\n  where: undefined,\n  schema: undefined,\n  table: undefined,\n  column: undefined,\n  dataType: undefined,\n  constraint: undefined,\n  file: 'postinit.c',\n  line: '1021',\n  routine: 'InitPostgres'\n}\n GET /api/catalogue 500 in 49ms (next.js: 4ms, application-code: 46ms)\n POST /api/admin/login 401 in 177ms (next.js: 160ms, application-code: 16ms)\n POST /api/admin/login 401 in 11ms (next.js: 6ms, application-code: 5ms)\n POST /api/admin/login 401 in 9ms (next.js: 4ms, application-code: 5ms)\n POST /api/admin/login 401 in 15ms (next.js: 3ms, application-code: 11ms)\n POST /api/admin/login 401 in 8ms (next.js: 2ms, application-code: 6ms)\n POST /api/admin/login 401 in 7ms (next.js: 2ms, application-code: 4ms)\n POST /api/admin/login 401 in 9ms (next.js: 2ms, application-code: 7ms)\n^C\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ ^C                                                                                                            \n\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ \nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ \nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ pnpm dev\n\n> my-project@0.1.0 dev /var/home/moloitk/Documents/GitHub/bunny-apple-treats\n> next dev\n\n▲ Next.js 16.3.0 (Turbopack)\n- Local:         http://localhost:3000\n- Network:       http://192.168.68.110:3000\n- Environments: .env.local\n✓ Ready in 759ms\n✓ Running next.config.mjs took 36ms\n\n GET / 200 in 1034ms (next.js: 469ms, application-code: 565ms)\n(node:16980) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.\nIn the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.\n\nTo prepare for this change:\n- If you want the current behavior, explicitly use 'sslmode=verify-full'\n- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'\n\nSee https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.\n(Use `node --trace-warnings ...` to show where the warning was created)\n GET /api/catalogue 200 in 3.8s (next.js: 122ms, application-code: 3.6s)\n GET /api/catalogue 200 in 4.1s (next.js: 149ms, application-code: 3.9s)\n GET /admin 200 in 347ms (next.js: 191ms, application-code: 156ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 1074ms (next.js: 5ms, application-code: 1070ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 774ms (next.js: 3ms, application-code: 771ms)\n POST /api/admin/login 200 in 79ms (next.js: 62ms, application-code: 17ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 779ms (next.js: 8ms, application-code: 771ms)\n POST /api/admin/login 200 in 13ms (next.js: 4ms, application-code: 8ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 774ms (next.js: 6ms, application-code: 768ms)\n POST /api/admin/login 200 in 14ms (next.js: 3ms, application-code: 11ms)\n⨯ AggregateError: \n    at async seedCatalogue (lib/catalogue.ts:24:17)\n    at async GET (app/api/catalogue/route.ts:5:31)\n  22 |\n  23 | export async function seedCatalogue() {\n> 24 |   const count = await pool.query<{ count: string }>('SELECT COUNT(*)::text AS count FROM catalogue_items')\n     |                 ^\n  25 |   if (count.rows[0]?.count !== '0') return\n  26 |   const items = [\n  27 |     ['Signature Bento Cake', 'Bento Boxes', 320, 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bentocake-JsfRHzvkJ7M2urbg5I0CNdyeC5z8Hy.webp', 'Best seller', 'A...​‌​\n {\n  code: 'ETIMEDOUT',\n  [errors]: [\n    Error: connect ETIMEDOUT 18.233.142.186:5432\n        at <unknown> (Error: connect ETIMEDOUT 18.233.142.186:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '18.233.142.186',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e62d:aaca:54ef:921e:35bf:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e62d:aaca:54ef:921e:35bf',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 50.16.189.237:5432\n        at <unknown> (Error: connect ETIMEDOUT 50.16.189.237:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '50.16.189.237',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e604:fd60:9d0a:6cad:42c8:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e604:fd60:9d0a:6cad:42c8',\n      port: 5432\n    },\n    Error: connect ETIMEDOUT 98.89.155.173:5432\n        at <unknown> (Error: connect ETIMEDOUT 98.89.155.173:5432) {\n      errno: -110,\n      code: 'ETIMEDOUT',\n      syscall: 'connect',\n      address: '98.89.155.173',\n      port: 5432\n    },\n    Error: connect ENETUNREACH 2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1:5432 - Local (:::0)\n        at ignore-listed frames {\n      errno: -101,\n      code: 'ENETUNREACH',\n      syscall: 'connect',\n      address: '2600:1f18:495a:e617:f7c0:e6ef:e5d0:def1',\n      port: 5432\n    }\n  ]\n}\n GET /api/catalogue 500 in 767ms (next.js: 2ms, application-code: 765ms)\n^C\nmoloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats$ ",
+			"settings":
+			{
+				"buffer_size": 23257,
+				"line_ending": "Unix",
+				"name": "moloitk@bazzite:/var/home/moloitk/Documents/GitHub/bunny-apple-treats",
+				"scratch": true
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -72,11 +424,11 @@
 		"selected_items":
 		[
 			[
-				"terminus open",
+				"terminus",
 				"Terminus: Open Default Shell in Tab (View)"
 			],
 			[
-				"terminus",
+				"terminus open",
 				"Terminus: Open Default Shell in Tab (View)"
 			],
 			[
@@ -156,6 +508,7 @@
 	],
 	"file_history":
 	[
+		"/home/moloitk/Documents/GitHub/bunny-apple-treats/next-env.d.ts",
 		"/home/moloitk/Documents/GitHub/enactus-ufsq/context/data-context.tsx",
 		"/home/moloitk/Documents/GitHub/birthday-memory-board/components/birthday-experience.tsx",
 		"/home/moloitk/Documents/GitHub/Money_Mart/app/layout.tsx",
@@ -256,6 +609,442 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": "",
+								"current_syntax": "Git Formats/Git Ignore",
+								"enabled": true,
+								"last_updated": 1788198085.14,
+								"scanning": "-comment"
+							},
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 172.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".env.local",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								164
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".local",
+								"current_syntax": "zzz A File Icon/aliases/Plain Text (Dot ENV)",
+								"enabled": true,
+								"last_updated": 1788198085.14,
+								"scanning": "-comment"
+							},
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/zzz A File Icon/aliases/Plain Text (Dot ENV).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23257,
+								23257
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": null,
+								"current_syntax": "Terminus View",
+								"enabled": true,
+								"last_updated": 1788198085.14,
+								"scanning": "-comment"
+							},
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/home/moloitk/Documents/GitHub/bunny-apple-treats",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "/home/moloitk/Documents/GitHub/bunny-apple-treats",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Terminus View.sublime-syntax",
+							"terminus.highlight_counter": 1338,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"cwd": "/home/moloitk/Documents/GitHub/bunny-apple-treats",
+								"default_title": "Login Shell",
+								"env":
+								{
+									"LANG": "en_ZA.UTF-8",
+									"PROMPT_TOOLKIT_COLOR_DEPTH": "DEPTH_8_BIT",
+									"TERM": "xterm-256color",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null,
+								"view_settings":
+								{
+								}
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 10830.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10830.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -276,6 +1065,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -286,6 +1081,7 @@
 		"rows":
 		[
 			0.0,
+			0.758715746997,
 			1.0
 		]
 	},
